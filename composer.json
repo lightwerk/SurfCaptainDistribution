@@ -13,15 +13,15 @@
 			},
          {
             "type": "vcs",
-            "url": "git@bitbucket.org:lars85/lightwerk.surfcaptain.git"
+            "url": "git@bitbucket.org:lightwerk/surfcaptain.git"
          },
          {
             "type": "vcs",
-            "url": "git@bitbucket.org:lars85/lightwerk.surfclasses.git"
+            "url": "git@bitbucket.org:lightwerk/surfclasses.git"
          },
          {
             "type": "vcs",
-            "url": "git@bitbucket.org:lars85/lightwerk.surfrunner.git"
+            "url": "git@bitbucket.org:lightwerk/surfrunner.git"
          }
       ],
       "config": {

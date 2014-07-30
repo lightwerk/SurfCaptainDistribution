@@ -1,10 +1,9 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
-        "This file is @generated automatically"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "55006507a79c127b5d0039a8b1c52e10",
+    "hash": "2a39a74c9e141989bb7a9615260009d4",
     "packages": [
         {
             "name": "composer/installers",
@@ -704,8 +703,8 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:lars85/lightwerk.surfcaptain.git",
-                "reference": "73bf7f39902bb3bd3c1273f95c22ff163ee2d272"
+                "url": "git@bitbucket.org:lightwerk/surfcaptain.git",
+                "reference": "26ecbda699719c694b71566932fd1ce9751d0fa0"
             },
             "require": {
                 "lightwerk/surfclasses": "*",
@@ -717,14 +716,14 @@
                     "Lightwerk\\SurfCaptain": "Classes"
                 }
             },
-            "time": "2014-07-30 06:55:21"
+            "time": "2014-07-30 07:34:11"
         },
         {
             "name": "lightwerk/surfclasses",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:lars85/lightwerk.surfclasses.git",
+                "url": "git@bitbucket.org:lightwerk/surfclasses.git",
                 "reference": "bcd7a02dc5acea727de74d12ec5e8cdf5d71fdec"
             },
             "require": {
@@ -743,7 +742,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:lars85/lightwerk.surfrunner.git",
+                "url": "git@bitbucket.org:lightwerk/surfrunner.git",
                 "reference": "6f4df17785f1f0719a90815faf03ba38c5e5982e"
             },
             "require": {
@@ -1192,7 +1191,6 @@
         "lightwerk/surfclasses": 20,
         "lightwerk/surfrunner": 20
     },
-    "prefer-stable": false,
     "platform": [
 
     ],
