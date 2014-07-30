@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "85553c23f00c1214bc3ada187eb20c39",
+    "hash": "8e28a3a5477e05a3d12c814579172adc",
     "packages": [
         {
             "name": "composer/installers",
@@ -1125,30 +1125,6 @@
             ],
             "description": "A TYPO3 Flow package for easy use of SwiftMailer",
             "time": "2014-02-13 15:26:05"
-        },
-        {
-            "name": "typo3/welcome",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "git://git.typo3.org/Packages/TYPO3.Welcome.git",
-                "reference": "27b3e27f12d1ad472a8c5a9f6732f8a864a20c55"
-            },
-            "require": {
-                "typo3/flow": "*"
-            },
-            "type": "typo3-flow-framework",
-            "autoload": {
-                "psr-0": {
-                    "TYPO3\\Welcome": "Classes"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "LGPL-3.0+"
-            ],
-            "description": "This package provides a start screen for the TYPO3 Flow distribution with links to online resources.",
-            "time": "2013-02-20 16:26:04"
         }
     ],
     "packages-dev": [
@@ -1816,7 +1792,6 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "typo3/flow": 20,
-        "typo3/welcome": 20,
         "typo3/fluid": 20,
         "typo3/party": 20,
         "typo3/eel": 20,
