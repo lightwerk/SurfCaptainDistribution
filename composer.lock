@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "8e28a3a5477e05a3d12c814579172adc",
+    "hash": "7f4a516fb61ace7a4892f4663e3b2a48",
     "packages": [
         {
             "name": "composer/installers",
@@ -703,12 +703,18 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:lightwerk/surfcaptain.git",
-                "reference": "26ecbda699719c694b71566932fd1ce9751d0fa0"
+                "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
+                "reference": "987d7a0194002e09ec296d4cb659ba35c9be27c1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/987d7a0194002e09ec296d4cb659ba35c9be27c1.zip",
+                "reference": "987d7a0194002e09ec296d4cb659ba35c9be27c1",
+                "shasum": ""
             },
             "require": {
                 "lightwerk/surfclasses": "*",
-                "typo3/flow": "*"
+                "typo3/surf": "*"
             },
             "type": "typo3-flow-package",
             "autoload": {
@@ -716,15 +722,45 @@
                     "Lightwerk\\SurfCaptain": "Classes"
                 }
             },
-            "time": "2014-07-30 07:34:11"
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Daniel Goerz",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Achim Fritz",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Lars Malach",
+                    "role": "Developer"
+                }
+            ],
+            "description": "SurfCaptain is a web front-end for TYPO3 Surf.",
+            "homepage": "https://bitbucket.org/lightwerk/surfcaptain",
+            "keywords": [
+                "TYPO3 Surf",
+                "deployment"
+            ],
+            "time": "2014-07-31 10:13:24"
         },
         {
             "name": "lightwerk/surfclasses",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:lightwerk/surfclasses.git",
-                "reference": "bcd7a02dc5acea727de74d12ec5e8cdf5d71fdec"
+                "url": "https://bitbucket.org/lightwerk/surfclasses.git",
+                "reference": "55dde8d20f98f3fdf0cdec376554f09cb500b199"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://bitbucket.org/lightwerk/surfclasses/get/55dde8d20f98f3fdf0cdec376554f09cb500b199.zip",
+                "reference": "55dde8d20f98f3fdf0cdec376554f09cb500b199",
+                "shasum": ""
             },
             "require": {
                 "typo3/flow": "*"
@@ -735,19 +771,45 @@
                     "Lightwerk\\SurfClasses": "Classes"
                 }
             },
-            "time": "2014-07-08 09:04:01"
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Daniel Goerz",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Achim Fritz",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Lars Malach",
+                    "role": "Developer"
+                }
+            ],
+            "description": "SurfClasses is a collection of classes for Lightwerk.SurfCaptian and Lightwerk.SurfRunner.",
+            "homepage": "https://bitbucket.org/lightwerk/surfclasses",
+            "time": "2014-07-30 21:20:01"
         },
         {
             "name": "lightwerk/surfrunner",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:lightwerk/surfrunner.git",
-                "reference": "6f4df17785f1f0719a90815faf03ba38c5e5982e"
+                "url": "https://bitbucket.org/lightwerk/surfrunner.git",
+                "reference": "c8fd4c2e7ef011b4d57ab27d3023e0182a847fef"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://bitbucket.org/lightwerk/surfrunner/get/c8fd4c2e7ef011b4d57ab27d3023e0182a847fef.zip",
+                "reference": "c8fd4c2e7ef011b4d57ab27d3023e0182a847fef",
+                "shasum": ""
             },
             "require": {
                 "lightwerk/surfclasses": "*",
-                "typo3/flow": "*"
+                "typo3/surf": "*"
             },
             "type": "typo3-flow-package",
             "autoload": {
@@ -755,58 +817,82 @@
                     "Lightwerk\\SurfRunner": "Classes"
                 }
             },
-            "time": "2014-07-08 09:02:47"
-        },
-        {
-            "name": "swiftmailer/swiftmailer",
-            "version": "v5.0.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/swiftmailer/swiftmailer.git",
-                "reference": "32edc3b0de0fdc1b10f5c4912e8677b3f411a230"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/32edc3b0de0fdc1b10f5c4912e8677b3f411a230",
-                "reference": "32edc3b0de0fdc1b10f5c4912e8677b3f411a230",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.2.4"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "5.1-dev"
-                }
-            },
-            "autoload": {
-                "files": [
-                    "lib/swift_required.php"
-                ]
-            },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "GPL-3.0+"
             ],
             "authors": [
                 {
-                    "name": "Fabien Potencier",
-                    "email": "fabien@symfony.com",
-                    "homepage": "http://fabien.potencier.org",
-                    "role": "Lead Developer"
+                    "name": "Daniel Goerz",
+                    "role": "Developer"
                 },
                 {
-                    "name": "Chris Corbyn"
+                    "name": "Achim Fritz",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Lars Malach",
+                    "role": "Developer"
                 }
             ],
-            "description": "Swiftmailer, free feature-rich PHP mailer",
-            "homepage": "http://swiftmailer.org",
+            "description": "SurfRunner executes Surf Deployments with JSON configurations.",
+            "homepage": "https://bitbucket.org/lightwerk/surfrunner",
             "keywords": [
-                "mail",
-                "mailer"
+                "TYPO3 Surf",
+                "command line interface",
+                "deployment"
             ],
-            "time": "2013-12-03 13:33:24"
+            "time": "2014-07-30 21:20:31"
+        },
+        {
+            "name": "lightwerk/surftasks",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.org/lightwerk/surftasks.git",
+                "reference": "a5900387fd47b1fd1faec5d3e30991458343bdfc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/a5900387fd47b1fd1faec5d3e30991458343bdfc.zip",
+                "reference": "a5900387fd47b1fd1faec5d3e30991458343bdfc",
+                "shasum": ""
+            },
+            "require": {
+                "typo3/surf": "*"
+            },
+            "type": "typo3-flow-package",
+            "autoload": {
+                "psr-0": {
+                    "Lightwerk\\SurfTasks": "Classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Daniel Goerz",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Achim Fritz",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Lars Malach",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Additional tasks for TYPO3.Surf.",
+            "homepage": "https://bitbucket.org/lightwerk/surftasks",
+            "keywords": [
+                "TYPO3 Surf",
+                "Tasks",
+                "deployment"
+            ],
+            "time": "2014-07-31 10:14:47"
         },
         {
             "name": "symfony/console",
@@ -1100,31 +1186,6 @@
             ],
             "description": "TYPO3 Surf is a deployment tool based on Flow and suited for a wide variety of applications",
             "time": "2014-07-28 10:16:26"
-        },
-        {
-            "name": "typo3/swiftmailer",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "git://git.typo3.org/Packages/TYPO3.SwiftMailer.git",
-                "reference": "25d67114252105cebdd8259a38a614b153002e24"
-            },
-            "require": {
-                "swiftmailer/swiftmailer": "5.0.*",
-                "typo3/flow": "*"
-            },
-            "type": "typo3-flow-package",
-            "autoload": {
-                "psr-0": {
-                    "TYPO3\\SwiftMailer": "Classes"
-                }
-            },
-            "license": [
-                "LGPL-3.0",
-                "MIT"
-            ],
-            "description": "A TYPO3 Flow package for easy use of SwiftMailer",
-            "time": "2014-02-13 15:26:05"
         }
     ],
     "packages-dev": [
@@ -1786,9 +1847,7 @@
             "time": "2014-02-20 10:59:32"
         }
     ],
-    "aliases": [
-
-    ],
+    "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
         "typo3/flow": 20,
@@ -1796,18 +1855,14 @@
         "typo3/party": 20,
         "typo3/eel": 20,
         "doctrine/migrations": 20,
-        "typo3/swiftmailer": 20,
         "typo3/surf": 20,
-        "lightwerk/surfcaptain": 20,
         "lightwerk/surfclasses": 20,
+        "lightwerk/surfcaptain": 20,
         "lightwerk/surfrunner": 20,
+        "lightwerk/surftasks": 20,
         "typo3/kickstart": 20,
         "typo3/buildessentials": 20
     },
-    "platform": [
-
-    ],
-    "platform-dev": [
-
-    ]
+    "platform": [],
+    "platform-dev": []
 }
