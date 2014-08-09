@@ -6,7 +6,7 @@ install
 	composer install
 	edit Configuration/Settings.yaml for db connection
 	create database <db_name> DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
-	copy route from Packages/Application/Lightwerk.SurfCaptain/Configuration/Routes.yaml to Configuration/Routes.yaml
+	prepend content of Packages/Application/Lightwerk.SurfCaptain/Configuration/Routes.yaml to "Flow subroutes" in Configuration/Routes.yaml
 	set Lightwerk/SurfCaptain/git/privateToken in Configuration/Settings.yaml (see Packages/Application/Lightwerk.SurfCaptain/Configuration/Settings.yaml)
 
 	as root:
@@ -14,4 +14,3 @@ install
 
 	as user:
 	./flow doctrine:migrate
-
