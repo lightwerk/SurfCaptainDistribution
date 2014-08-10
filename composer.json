@@ -36,7 +36,6 @@
         "typo3/eel": "@dev",
         "doctrine/migrations": "@dev",
         "typo3/surf": "dev-master",
-        "lightwerk/surfclasses": "dev-master",
         "lightwerk/surfcaptain": "dev-master",
         "lightwerk/surfrunner": "dev-master",
         "lightwerk/surftasks": "dev-master"
