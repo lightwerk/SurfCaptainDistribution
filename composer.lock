@@ -7,16 +7,16 @@
     "packages": [
         {
             "name": "composer/installers",
-            "version": "v1.0.16",
+            "version": "v1.0.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "033679ad3cfc5ab759f9ed2a58881aeef13c342b"
+                "reference": "f22820dd0854a406f86e2fc29b81c1898d68e5fb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/033679ad3cfc5ab759f9ed2a58881aeef13c342b",
-                "reference": "033679ad3cfc5ab759f9ed2a58881aeef13c342b",
+                "url": "https://api.github.com/repos/composer/installers/zipball/f22820dd0854a406f86e2fc29b81c1898d68e5fb",
+                "reference": "f22820dd0854a406f86e2fc29b81c1898d68e5fb",
                 "shasum": ""
             },
             "replace": {
@@ -63,6 +63,7 @@
                 "annotatecms",
                 "bitrix",
                 "cakephp",
+                "chef",
                 "codeigniter",
                 "concrete5",
                 "croogo",
@@ -92,7 +93,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2014-07-21 15:54:34"
+            "time": "2014-08-17 18:19:30"
         },
         {
             "name": "doctrine/annotations",
@@ -573,12 +574,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/migrations.git",
-                "reference": "4256449c5e2603a6b6ee5a78c7c4521d4d4430b8"
+                "reference": "1a9dffa64e33fdc10f4b4c3f5d7230b74d4a1021"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/4256449c5e2603a6b6ee5a78c7c4521d4d4430b8",
-                "reference": "4256449c5e2603a6b6ee5a78c7c4521d4d4430b8",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/1a9dffa64e33fdc10f4b4c3f5d7230b74d4a1021",
+                "reference": "1a9dffa64e33fdc10f4b4c3f5d7230b74d4a1021",
                 "shasum": ""
             },
             "require": {
@@ -609,14 +610,12 @@
             ],
             "authors": [
                 {
-                    "name": "Jonathan Wage",
-                    "email": "jonwage@gmail.com",
-                    "homepage": "http://www.jwage.com/",
-                    "role": "Creator"
-                },
-                {
                     "name": "Benjamin Eberlei",
                     "email": "kontakt@beberlei.de"
+                },
+                {
+                    "name": "Jonathan Wage",
+                    "email": "jonwage@gmail.com"
                 }
             ],
             "description": "Database Schema migrations using Doctrine DBAL",
@@ -625,7 +624,7 @@
                 "database",
                 "migrations"
             ],
-            "time": "2014-07-09 07:58:02"
+            "time": "2014-08-18 18:03:07"
         },
         {
             "name": "doctrine/orm",
@@ -704,12 +703,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "94e35a7355e44a184a3c14d8969496b54e0dc57e"
+                "reference": "670d93b3b3fbbfbcf6cfee21845d1b7813bb53dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/94e35a7355e44a184a3c14d8969496b54e0dc57e.zip",
-                "reference": "94e35a7355e44a184a3c14d8969496b54e0dc57e",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/670d93b3b3fbbfbcf6cfee21845d1b7813bb53dd.zip",
+                "reference": "670d93b3b3fbbfbcf6cfee21845d1b7813bb53dd",
                 "shasum": ""
             },
             "require": {
@@ -745,7 +744,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-08-10 12:08:04"
+            "time": "2014-08-19 18:52:18"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -753,12 +752,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfrunner.git",
-                "reference": "eccd283106d8bc9c7d55709f6d604f8bc93d34e6"
+                "reference": "de6e4890e3ccc4436182d8aeec928228c38e4f84"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfrunner/get/eccd283106d8bc9c7d55709f6d604f8bc93d34e6.zip",
-                "reference": "eccd283106d8bc9c7d55709f6d604f8bc93d34e6",
+                "url": "https://bitbucket.org/lightwerk/surfrunner/get/de6e4890e3ccc4436182d8aeec928228c38e4f84.zip",
+                "reference": "de6e4890e3ccc4436182d8aeec928228c38e4f84",
                 "shasum": ""
             },
             "require": {
@@ -796,7 +795,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2014-08-10 12:09:56"
+            "time": "2014-08-19 10:04:51"
         },
         {
             "name": "lightwerk/surftasks",
@@ -804,12 +803,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "a5900387fd47b1fd1faec5d3e30991458343bdfc"
+                "reference": "ba6b40f06c5b6fda0fbaf644f4200cc142c1e722"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/a5900387fd47b1fd1faec5d3e30991458343bdfc.zip",
-                "reference": "a5900387fd47b1fd1faec5d3e30991458343bdfc",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/ba6b40f06c5b6fda0fbaf644f4200cc142c1e722.zip",
+                "reference": "ba6b40f06c5b6fda0fbaf644f4200cc142c1e722",
                 "shasum": ""
             },
             "require": {
@@ -846,7 +845,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-07-31 10:14:47"
+            "time": "2014-08-19 11:03:59"
         },
         {
             "name": "symfony/console",
@@ -1032,7 +1031,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "9ebe61d0f4312161f9790f09cc035e0b6d6a9009"
+                "reference": "82828c1515a272a392719d53ab1065aa0fb680c2"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1065,7 +1064,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2014-08-05 09:52:26"
+            "time": "2014-08-12 09:37:19"
         },
         {
             "name": "typo3/fluid",
@@ -1073,7 +1072,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Fluid.git",
-                "reference": "594a8dd36a5ffae50e354769c253b03a67e02fb5"
+                "reference": "454429a00669ccb6cf80e9ed8e7cd6a5df4b1a41"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1089,7 +1088,7 @@
                 "LGPL-3.0+"
             ],
             "description": "Next-Generation Templating Framework for TYPO3 Flow and TYPO3 Neos, also backported to TYPO3 CMS",
-            "time": "2014-08-05 09:53:28"
+            "time": "2014-08-11 09:04:27"
         },
         {
             "name": "typo3/party",

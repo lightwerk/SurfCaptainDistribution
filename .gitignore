@@ -3,7 +3,8 @@
 /Data/
 /Packages/
 /Web/
-/bin/
+/bin/*
+!/bin/surfRunnerLoop.sh
 /Readme.txt
 /Upgrading.txt
 /flow
