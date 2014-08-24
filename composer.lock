@@ -7,16 +7,16 @@
     "packages": [
         {
             "name": "composer/installers",
-            "version": "v1.0.17",
+            "version": "v1.0.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "f22820dd0854a406f86e2fc29b81c1898d68e5fb"
+                "reference": "74fb0a7a1a23696d9c8cc2fba5903f6711cdd067"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/f22820dd0854a406f86e2fc29b81c1898d68e5fb",
-                "reference": "f22820dd0854a406f86e2fc29b81c1898d68e5fb",
+                "url": "https://api.github.com/repos/composer/installers/zipball/74fb0a7a1a23696d9c8cc2fba5903f6711cdd067",
+                "reference": "74fb0a7a1a23696d9c8cc2fba5903f6711cdd067",
                 "shasum": ""
             },
             "replace": {
@@ -93,7 +93,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2014-08-17 18:19:30"
+            "time": "2014-08-18 20:00:12"
         },
         {
             "name": "doctrine/annotations",
@@ -703,12 +703,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "670d93b3b3fbbfbcf6cfee21845d1b7813bb53dd"
+                "reference": "4ece667ade9de41cbc9e4cfedf632b1c4e7c1c17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/670d93b3b3fbbfbcf6cfee21845d1b7813bb53dd.zip",
-                "reference": "670d93b3b3fbbfbcf6cfee21845d1b7813bb53dd",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/4ece667ade9de41cbc9e4cfedf632b1c4e7c1c17.zip",
+                "reference": "4ece667ade9de41cbc9e4cfedf632b1c4e7c1c17",
                 "shasum": ""
             },
             "require": {
@@ -744,7 +744,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-08-19 18:52:18"
+            "time": "2014-08-24 20:03:14"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -752,12 +752,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfrunner.git",
-                "reference": "de6e4890e3ccc4436182d8aeec928228c38e4f84"
+                "reference": "9f1dc23af42de8599d113bc2d5e2014c38f6aece"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfrunner/get/de6e4890e3ccc4436182d8aeec928228c38e4f84.zip",
-                "reference": "de6e4890e3ccc4436182d8aeec928228c38e4f84",
+                "url": "https://bitbucket.org/lightwerk/surfrunner/get/9f1dc23af42de8599d113bc2d5e2014c38f6aece.zip",
+                "reference": "9f1dc23af42de8599d113bc2d5e2014c38f6aece",
                 "shasum": ""
             },
             "require": {
@@ -795,7 +795,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2014-08-19 10:04:51"
+            "time": "2014-08-24 20:15:56"
         },
         {
             "name": "lightwerk/surftasks",
@@ -803,12 +803,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "ba6b40f06c5b6fda0fbaf644f4200cc142c1e722"
+                "reference": "f70447aff378b609ecbc27f873a09396cab07a6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/ba6b40f06c5b6fda0fbaf644f4200cc142c1e722.zip",
-                "reference": "ba6b40f06c5b6fda0fbaf644f4200cc142c1e722",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/f70447aff378b609ecbc27f873a09396cab07a6f.zip",
+                "reference": "f70447aff378b609ecbc27f873a09396cab07a6f",
                 "shasum": ""
             },
             "require": {
@@ -845,7 +845,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-08-19 11:03:59"
+            "time": "2014-08-24 20:16:44"
         },
         {
             "name": "symfony/console",
@@ -1007,7 +1007,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Eel.git",
-                "reference": "67387fba89177fc989bba4992ee0c597e50434d9"
+                "reference": "4aa122787f4ecb8955c0d2963f0d5f49e501ef9a"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1023,7 +1023,7 @@
                 "LGPL-3.0+"
             ],
             "description": "The Embedded Expression Language (Eel) is a building block for creating Domain Specific Languages",
-            "time": "2014-08-05 11:06:22"
+            "time": "2014-08-22 05:12:02"
         },
         {
             "name": "typo3/flow",
@@ -1031,7 +1031,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "82828c1515a272a392719d53ab1065aa0fb680c2"
+                "reference": "12f4a4c2ba032b205ec610a49e78fb984da52f23"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1064,7 +1064,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2014-08-12 09:37:19"
+            "time": "2014-08-20 18:42:12"
         },
         {
             "name": "typo3/fluid",
@@ -1072,7 +1072,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Fluid.git",
-                "reference": "454429a00669ccb6cf80e9ed8e7cd6a5df4b1a41"
+                "reference": "6859bd7c52ea08a51b648627b54765a43c94d3d1"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1088,7 +1088,7 @@
                 "LGPL-3.0+"
             ],
             "description": "Next-Generation Templating Framework for TYPO3 Flow and TYPO3 Neos, also backported to TYPO3 CMS",
-            "time": "2014-08-11 09:04:27"
+            "time": "2014-08-20 15:51:01"
         },
         {
             "name": "typo3/party",
@@ -1779,7 +1779,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Kickstart.git",
-                "reference": "0d7be2665785e5507e4a195fb6577a0efa944b8c"
+                "reference": "fbee66f7763999094ccfbe1828ad121f14623876"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1795,7 +1795,7 @@
                 "LGPL-3.0+"
             ],
             "description": "A simple generator for controller and views.",
-            "time": "2014-02-20 10:59:32"
+            "time": "2014-08-21 16:45:22"
         }
     ],
     "aliases": [],
