@@ -1,9 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
-    "hash": "d925321472c3fa94657ef7dfe59a2d17",
+    "hash": "c67529b0f703a546f12a1ccfaae4c64d",
     "packages": [
         {
             "name": "composer/installers",
@@ -703,12 +704,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "71eb6b4d75c5fd1743d1457328c8c96d3b35f4a5"
+                "reference": "8c2367cf8242a63947eade579e6e5c42dd4ca611"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/71eb6b4d75c5fd1743d1457328c8c96d3b35f4a5.zip",
-                "reference": "71eb6b4d75c5fd1743d1457328c8c96d3b35f4a5",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/8c2367cf8242a63947eade579e6e5c42dd4ca611.zip",
+                "reference": "8c2367cf8242a63947eade579e6e5c42dd4ca611",
                 "shasum": ""
             },
             "require": {
@@ -744,7 +745,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-08-26 05:57:27"
+            "time": "2014-08-26 16:22:56"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -1003,14 +1004,14 @@
         },
         {
             "name": "typo3/eel",
-            "version": "dev-master",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Eel.git",
-                "reference": "4aa122787f4ecb8955c0d2963f0d5f49e501ef9a"
+                "reference": "593f645d4095fb3889cf73f30a1f6fe275d4c0f7"
             },
             "require": {
-                "typo3/flow": "*"
+                "typo3/flow": "2.2.*"
             },
             "type": "typo3-flow-framework",
             "autoload": {
@@ -1023,15 +1024,15 @@
                 "LGPL-3.0+"
             ],
             "description": "The Embedded Expression Language (Eel) is a building block for creating Domain Specific Languages",
-            "time": "2014-08-22 05:12:02"
+            "time": "2014-06-18 10:15:35"
         },
         {
             "name": "typo3/flow",
-            "version": "dev-master",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "12f4a4c2ba032b205ec610a49e78fb984da52f23"
+                "reference": "fe2ee6b608b626c8befa10b873da848744b3620e"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1042,12 +1043,11 @@
                 "ext-spl": "*",
                 "ext-zlib": "*",
                 "php": ">=5.3.2",
-                "symfony/console": "2.*",
                 "symfony/dom-crawler": "2.2.*",
                 "symfony/yaml": "2.1.*",
-                "typo3/eel": "*",
-                "typo3/fluid": "*",
-                "typo3/party": "*"
+                "typo3/eel": "2.2.*",
+                "typo3/fluid": "2.2.*",
+                "typo3/party": "2.2.*"
             },
             "suggest": {
                 "doctrine/data-fixtures": "To manage and execute the loading of data fixtures for the Doctrine ORM or ODM"
@@ -1064,18 +1064,18 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2014-08-20 18:42:12"
+            "time": "2014-08-26 08:49:39"
         },
         {
             "name": "typo3/fluid",
-            "version": "dev-master",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Fluid.git",
-                "reference": "6859bd7c52ea08a51b648627b54765a43c94d3d1"
+                "reference": "1a827509fc9f2b19805e6e4f0ef3b6ff4105688e"
             },
             "require": {
-                "typo3/flow": "*"
+                "typo3/flow": "2.2.*"
             },
             "type": "typo3-flow-framework",
             "autoload": {
@@ -1088,18 +1088,18 @@
                 "LGPL-3.0+"
             ],
             "description": "Next-Generation Templating Framework for TYPO3 Flow and TYPO3 Neos, also backported to TYPO3 CMS",
-            "time": "2014-08-20 15:51:01"
+            "time": "2014-08-26 08:11:19"
         },
         {
             "name": "typo3/party",
-            "version": "dev-master",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Party.git",
-                "reference": "9cd749deaa0bc6e2bc18a210bb269dd633522327"
+                "reference": "5548c5130bdac12bd6c46502e78d89a60e7e4e8c"
             },
             "require": {
-                "typo3/flow": "*"
+                "typo3/flow": "2.2.*"
             },
             "type": "typo3-flow-framework",
             "autoload": {
@@ -1112,7 +1112,7 @@
                 "LGPL-3.0+"
             ],
             "description": "A PHP implementation of the OASIS Customer Information Quality (CIQ) XML Standard.",
-            "time": "2014-03-27 00:29:08"
+            "time": "2014-06-18 10:15:35"
         },
         {
             "name": "typo3/surf",
@@ -1753,11 +1753,11 @@
         },
         {
             "name": "typo3/buildessentials",
-            "version": "dev-master",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Flow/BuildEssentials.git",
-                "reference": "1b1b8df690260a364f449ef998b4b27405e2ff2e"
+                "reference": "27ed2d01a8e0caf85ffe6d89d08d9f9994f66f1b"
             },
             "require": {
                 "composer/installers": "~1.0.2"
@@ -1771,18 +1771,18 @@
                 "LGPL-3.0+"
             ],
             "description": "TYPO3 Flow Build Toolchain Essentials",
-            "time": "2014-03-25 15:51:53"
+            "time": "2014-03-25 15:50:47"
         },
         {
             "name": "typo3/kickstart",
-            "version": "dev-master",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Kickstart.git",
-                "reference": "fbee66f7763999094ccfbe1828ad121f14623876"
+                "reference": "0a88b50dd17c7aca1639340f6b4f3e019d78e2f9"
             },
             "require": {
-                "typo3/flow": "*"
+                "typo3/flow": "2.2.*"
             },
             "type": "typo3-flow-framework",
             "autoload": {
@@ -1795,24 +1795,25 @@
                 "LGPL-3.0+"
             ],
             "description": "A simple generator for controller and views.",
-            "time": "2014-08-21 16:45:22"
+            "time": "2014-06-18 10:15:35"
         }
     ],
-    "aliases": [],
+    "aliases": [
+
+    ],
     "minimum-stability": "stable",
     "stability-flags": {
-        "typo3/flow": 20,
-        "typo3/fluid": 20,
-        "typo3/party": 20,
-        "typo3/eel": 20,
         "doctrine/migrations": 20,
         "typo3/surf": 20,
         "lightwerk/surfcaptain": 20,
         "lightwerk/surfrunner": 20,
-        "lightwerk/surftasks": 20,
-        "typo3/kickstart": 20,
-        "typo3/buildessentials": 20
+        "lightwerk/surftasks": 20
     },
-    "platform": [],
-    "platform-dev": []
+    "prefer-stable": false,
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
 }
