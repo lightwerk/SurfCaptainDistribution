@@ -704,12 +704,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "7232e307b3912aa0bc95e6f15024404f3b00b2b0"
+                "reference": "647bce93ff8adf40d063dadb3bc38dd2b7034116"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/7232e307b3912aa0bc95e6f15024404f3b00b2b0.zip",
-                "reference": "7232e307b3912aa0bc95e6f15024404f3b00b2b0",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/647bce93ff8adf40d063dadb3bc38dd2b7034116.zip",
+                "reference": "647bce93ff8adf40d063dadb3bc38dd2b7034116",
                 "shasum": ""
             },
             "require": {
@@ -745,7 +745,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-08-26 18:20:34"
+            "time": "2014-08-26 17:27:07"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -1798,7 +1798,9 @@
             "time": "2014-06-18 10:15:35"
         }
     ],
-    "aliases": [],
+    "aliases": [
+
+    ],
     "minimum-stability": "stable",
     "stability-flags": {
         "doctrine/migrations": 20,
@@ -1808,6 +1810,10 @@
         "lightwerk/surftasks": 20
     },
     "prefer-stable": false,
-    "platform": [],
-    "platform-dev": []
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
 }
