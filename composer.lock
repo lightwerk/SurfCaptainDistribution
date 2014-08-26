@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c67529b0f703a546f12a1ccfaae4c64d",
+    "hash": "311fe669dd03e0ce762bccbd0777af0e",
     "packages": [
         {
             "name": "composer/installers",
@@ -704,12 +704,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "8c2367cf8242a63947eade579e6e5c42dd4ca611"
+                "reference": "647bce93ff8adf40d063dadb3bc38dd2b7034116"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/8c2367cf8242a63947eade579e6e5c42dd4ca611.zip",
-                "reference": "8c2367cf8242a63947eade579e6e5c42dd4ca611",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/647bce93ff8adf40d063dadb3bc38dd2b7034116.zip",
+                "reference": "647bce93ff8adf40d063dadb3bc38dd2b7034116",
                 "shasum": ""
             },
             "require": {
@@ -745,7 +745,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-08-26 16:22:56"
+            "time": "2014-08-26 17:27:07"
         },
         {
             "name": "lightwerk/surfrunner",
