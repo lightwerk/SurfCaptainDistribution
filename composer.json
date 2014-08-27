@@ -31,12 +31,11 @@
     },
     "require": {
         "typo3/flow": "2.2.*",
-         "doctrine/migrations": "@dev",
+        "doctrine/migrations": "@dev",
         "typo3/surf": "dev-master",
         "lightwerk/surfcaptain": "dev-master",
         "lightwerk/surfrunner": "dev-master",
-        "lightwerk/surftasks": "dev-master",
-        "symfony/process": "*"
+        "lightwerk/surftasks": "dev-master"
     },
     "require-dev": {
         "typo3/kickstart": "2.2.*",
