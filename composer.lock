@@ -1,10 +1,9 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
-        "This file is @generated automatically"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "311fe669dd03e0ce762bccbd0777af0e",
+    "hash": "40f408e0e5328d3f94b4e8e301420d04",
     "packages": [
         {
             "name": "composer/installers",
@@ -704,12 +703,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "6e3a6ca605f7e2a35e1c2619a9db63ffcc45f51e"
+                "reference": "4ffbade6a386637179450cf9692e433bfbd03464"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/6e3a6ca605f7e2a35e1c2619a9db63ffcc45f51e.zip",
-                "reference": "6e3a6ca605f7e2a35e1c2619a9db63ffcc45f51e",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/4ffbade6a386637179450cf9692e433bfbd03464.zip",
+                "reference": "4ffbade6a386637179450cf9692e433bfbd03464",
                 "shasum": ""
             },
             "require": {
@@ -745,7 +744,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-08-26 19:00:19"
+            "time": "2014-08-26 19:20:57"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -753,12 +752,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfrunner.git",
-                "reference": "d97fb059b3062e70d11d1ec6b0f9064601973b30"
+                "reference": "379d961f3caf933c7479088f3de6b0d6abb27801"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfrunner/get/d97fb059b3062e70d11d1ec6b0f9064601973b30.zip",
-                "reference": "d97fb059b3062e70d11d1ec6b0f9064601973b30",
+                "url": "https://bitbucket.org/lightwerk/surfrunner/get/379d961f3caf933c7479088f3de6b0d6abb27801.zip",
+                "reference": "379d961f3caf933c7479088f3de6b0d6abb27801",
                 "shasum": ""
             },
             "require": {
@@ -796,7 +795,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2014-08-25 21:54:05"
+            "time": "2014-08-26 20:44:52"
         },
         {
             "name": "lightwerk/surftasks",
@@ -804,12 +803,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "d79d00acff5d1d5bb961c13c12b0663fafe5c538"
+                "reference": "9c38bf62eade0eed09c5bc1ad3259bef216c0158"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/d79d00acff5d1d5bb961c13c12b0663fafe5c538.zip",
-                "reference": "d79d00acff5d1d5bb961c13c12b0663fafe5c538",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/9c38bf62eade0eed09c5bc1ad3259bef216c0158.zip",
+                "reference": "9c38bf62eade0eed09c5bc1ad3259bef216c0158",
                 "shasum": ""
             },
             "require": {
@@ -846,7 +845,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-08-25 21:54:41"
+            "time": "2014-08-26 20:47:24"
         },
         {
             "name": "symfony/console",
@@ -957,6 +956,53 @@
             "description": "Symfony DomCrawler Component",
             "homepage": "http://symfony.com",
             "time": "2013-11-29 05:58:12"
+        },
+        {
+            "name": "symfony/process",
+            "version": "v2.5.3",
+            "target-dir": "Symfony/Component/Process",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/Process.git",
+                "reference": "e0997d2a9a1a763484b34b989900b61322a9b056"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/Process/zipball/e0997d2a9a1a763484b34b989900b61322a9b056",
+                "reference": "e0997d2a9a1a763484b34b989900b61322a9b056",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.5-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Symfony\\Component\\Process\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Symfony Community",
+                    "homepage": "http://symfony.com/contributors"
+                },
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                }
+            ],
+            "description": "Symfony Process Component",
+            "homepage": "http://symfony.com",
+            "time": "2014-08-05 09:00:40"
         },
         {
             "name": "symfony/yaml",
@@ -1807,7 +1853,6 @@
         "lightwerk/surfrunner": 20,
         "lightwerk/surftasks": 20
     },
-    "prefer-stable": false,
     "platform": [],
     "platform-dev": []
 }

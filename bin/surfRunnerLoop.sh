@@ -13,7 +13,7 @@ while true; do
 			git checkout -- . && \
 			git clean -f -f -d && \
 			git pull && \
-			composer install --no-dev && \
+			composer install --no-dev --no-interaction && \
 			export FLOW_CONTEXT=Production && \
 			./flow flow:cache:flush --force && \
 			./flow cache:warmup && \
