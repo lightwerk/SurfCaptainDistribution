@@ -703,12 +703,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "b8706421bd40230d5992f32d484ad103814f3e4e"
+                "reference": "f56de016927b6a215f87590e3fe37bc3e0aface7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/b8706421bd40230d5992f32d484ad103814f3e4e.zip",
-                "reference": "b8706421bd40230d5992f32d484ad103814f3e4e",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/f56de016927b6a215f87590e3fe37bc3e0aface7.zip",
+                "reference": "f56de016927b6a215f87590e3fe37bc3e0aface7",
                 "shasum": ""
             },
             "require": {
@@ -744,7 +744,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-08-27 19:16:37"
+            "time": "2014-08-28 21:25:21"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -803,12 +803,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "6e71c558789c1d0af6bf58351cf9320f23303877"
+                "reference": "0a6d731ab6fb79d963c8f06e09a253a7cd35796c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/6e71c558789c1d0af6bf58351cf9320f23303877.zip",
-                "reference": "6e71c558789c1d0af6bf58351cf9320f23303877",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/0a6d731ab6fb79d963c8f06e09a253a7cd35796c.zip",
+                "reference": "0a6d731ab6fb79d963c8f06e09a253a7cd35796c",
                 "shasum": ""
             },
             "require": {
@@ -845,7 +845,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-08-28 23:13:38"
+            "time": "2014-08-29 10:37:07"
         },
         {
             "name": "symfony/console",
