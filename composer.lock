@@ -1,7 +1,8 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
     "hash": "bb97d6ec257f2c2a9c54ee7174e7bac9",
     "packages": [
@@ -703,12 +704,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "6c1677224dd56a18f24f73b2422903339fd8d8b2"
+                "reference": "073e5530d869d59a972450c01cc482ee2bda8782"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/6c1677224dd56a18f24f73b2422903339fd8d8b2.zip",
-                "reference": "6c1677224dd56a18f24f73b2422903339fd8d8b2",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/073e5530d869d59a972450c01cc482ee2bda8782.zip",
+                "reference": "073e5530d869d59a972450c01cc482ee2bda8782",
                 "shasum": ""
             },
             "require": {
@@ -744,7 +745,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-08-29 10:54:56"
+            "time": "2014-08-31 00:12:35"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -1806,6 +1807,7 @@
         "lightwerk/surfrunner": 20,
         "lightwerk/surftasks": 20
     },
+    "prefer-stable": false,
     "platform": [],
     "platform-dev": []
 }
