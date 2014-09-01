@@ -1,8 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
-        "This file is @generated automatically"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
     "hash": "bb97d6ec257f2c2a9c54ee7174e7bac9",
     "packages": [
@@ -753,12 +752,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfrunner.git",
-                "reference": "394226a2ef85acd4584894c14ccbe960099ee537"
+                "reference": "d43c02a2f903d8b5387ccca651c1cf327fc08d92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfrunner/get/394226a2ef85acd4584894c14ccbe960099ee537.zip",
-                "reference": "394226a2ef85acd4584894c14ccbe960099ee537",
+                "url": "https://bitbucket.org/lightwerk/surfrunner/get/d43c02a2f903d8b5387ccca651c1cf327fc08d92.zip",
+                "reference": "d43c02a2f903d8b5387ccca651c1cf327fc08d92",
                 "shasum": ""
             },
             "require": {
@@ -796,7 +795,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2014-08-28 23:12:52"
+            "time": "2014-09-01 06:55:25"
         },
         {
             "name": "lightwerk/surftasks",
@@ -1806,7 +1805,6 @@
         "lightwerk/surfrunner": 20,
         "lightwerk/surftasks": 20
     },
-    "prefer-stable": false,
     "platform": [],
     "platform-dev": []
 }
