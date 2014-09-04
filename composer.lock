@@ -703,12 +703,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "0a856aa54d34f7235057431c18d06b018a0b1b5e"
+                "reference": "bdc5d3fc6198321ad805fd898ebdbc06a82d6106"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/0a856aa54d34f7235057431c18d06b018a0b1b5e.zip",
-                "reference": "0a856aa54d34f7235057431c18d06b018a0b1b5e",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/bdc5d3fc6198321ad805fd898ebdbc06a82d6106.zip",
+                "reference": "bdc5d3fc6198321ad805fd898ebdbc06a82d6106",
                 "shasum": ""
             },
             "require": {
@@ -744,7 +744,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-09-03 09:00:57"
+            "time": "2014-09-04 10:51:58"
         },
         {
             "name": "lightwerk/surfrunner",
