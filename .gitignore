@@ -4,6 +4,7 @@
 /Packages/
 /Web/
 /bin/*
+!/bin/tmuxSurfRunnerLoops.sh
 !/bin/surfRunnerLoop.sh
 !/bin/surfRunnerLoopWithSelfUpdate.sh
 /Readme.txt
