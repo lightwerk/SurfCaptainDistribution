@@ -803,12 +803,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "d01cf99e238b5d90ee3b664a08f4be8ab8f0f32c"
+                "reference": "a41fcca75ee4139322e5bdb6df67226caee4705f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/d01cf99e238b5d90ee3b664a08f4be8ab8f0f32c.zip",
-                "reference": "d01cf99e238b5d90ee3b664a08f4be8ab8f0f32c",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/a41fcca75ee4139322e5bdb6df67226caee4705f.zip",
+                "reference": "a41fcca75ee4139322e5bdb6df67226caee4705f",
                 "shasum": ""
             },
             "require": {
@@ -845,7 +845,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-09-08 11:04:17"
+            "time": "2014-09-08 13:03:48"
         },
         {
             "name": "symfony/console",
