@@ -5,6 +5,7 @@
 /Web/
 /bin/*
 !/bin/surfRunnerLoop.sh
+!/bin/surfRunnerLoopWithSelfUpdate.sh
 /Readme.txt
 /Upgrading.txt
 /flow
