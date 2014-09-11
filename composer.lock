@@ -703,12 +703,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "6cc518cd112f3e905683419d70160e18bc504bc5"
+                "reference": "47cbc4cdd332c008a402878ec4aac2a02b11c27b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/6cc518cd112f3e905683419d70160e18bc504bc5.zip",
-                "reference": "6cc518cd112f3e905683419d70160e18bc504bc5",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/47cbc4cdd332c008a402878ec4aac2a02b11c27b.zip",
+                "reference": "47cbc4cdd332c008a402878ec4aac2a02b11c27b",
                 "shasum": ""
             },
             "require": {
@@ -744,7 +744,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-09-10 08:06:53"
+            "time": "2014-09-11 14:39:46"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -752,12 +752,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfrunner.git",
-                "reference": "c3f2b4298ce2b38fca288785d4a487423bcb905b"
+                "reference": "fd5b69525d63126733a6c1d7052590b118fe88d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfrunner/get/c3f2b4298ce2b38fca288785d4a487423bcb905b.zip",
-                "reference": "c3f2b4298ce2b38fca288785d4a487423bcb905b",
+                "url": "https://bitbucket.org/lightwerk/surfrunner/get/fd5b69525d63126733a6c1d7052590b118fe88d3.zip",
+                "reference": "fd5b69525d63126733a6c1d7052590b118fe88d3",
                 "shasum": ""
             },
             "require": {
@@ -795,7 +795,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2014-09-09 22:51:42"
+            "time": "2014-09-11 14:55:39"
         },
         {
             "name": "lightwerk/surftasks",
@@ -803,12 +803,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "8f0660533c8899ffd20fd0b39f6738107531e4b0"
+                "reference": "39d6d17159a415193036feecfc4af975e3935901"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/8f0660533c8899ffd20fd0b39f6738107531e4b0.zip",
-                "reference": "8f0660533c8899ffd20fd0b39f6738107531e4b0",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/39d6d17159a415193036feecfc4af975e3935901.zip",
+                "reference": "39d6d17159a415193036feecfc4af975e3935901",
                 "shasum": ""
             },
             "require": {
@@ -845,7 +845,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-09-10 07:11:18"
+            "time": "2014-09-11 14:54:45"
         },
         {
             "name": "symfony/console",
