@@ -9,7 +9,7 @@ while true; do
 	if [ $PULLCOUNTDOWN -lt 1 ]; then
 		git fetch --all;
 
-		if [ `git rev-list HEAD...origin/master --count` != 0 ]; then
+		if [ `git rev-list HEAD...origin --count` != 0 ]; then
 			git checkout -- . && \
 			git clean -f -f -d && \
 			git pull && \
