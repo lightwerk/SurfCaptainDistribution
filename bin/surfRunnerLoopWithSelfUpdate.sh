@@ -14,7 +14,6 @@ while true; do
 			git clean -f -f -d && \
 			git pull && \
 			composer install --no-dev --no-interaction && \
-			export FLOW_CONTEXT=Production && \
 			./flow flow:cache:flush --force && \
 			./flow cache:warmup && \
 			./flow doctrine:migrate;
@@ -23,7 +22,7 @@ while true; do
 		PULLCOUNTDOWN=600;
 	fi
 
-	export FLOW_CONTEXT=Production && ./flow surfrunner:deploywaitingfromqueue;
+	./flow surfrunner:deploywaitingfromqueue;
 
 	sleep 2;
 done
