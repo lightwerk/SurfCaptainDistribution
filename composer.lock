@@ -752,12 +752,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfrunner.git",
-                "reference": "fd5b69525d63126733a6c1d7052590b118fe88d3"
+                "reference": "6335ccd3c91cd889a610d610805855f4e76ec2ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfrunner/get/fd5b69525d63126733a6c1d7052590b118fe88d3.zip",
-                "reference": "fd5b69525d63126733a6c1d7052590b118fe88d3",
+                "url": "https://bitbucket.org/lightwerk/surfrunner/get/6335ccd3c91cd889a610d610805855f4e76ec2ca.zip",
+                "reference": "6335ccd3c91cd889a610d610805855f4e76ec2ca",
                 "shasum": ""
             },
             "require": {
@@ -795,7 +795,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2014-09-11 14:55:39"
+            "time": "2014-09-15 08:13:03"
         },
         {
             "name": "lightwerk/surftasks",
