@@ -1,6 +1,8 @@
 #!/bin/bash
 
-cd ..;
+if [ ! -f flow ]; then
+	cd ../..;
+fi
 
 while true; do
 	./flow surfrunner:deploywaitingfromqueue;
