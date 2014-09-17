@@ -1,8 +1,6 @@
 #!/bin/sh
 
-if [ ! -f flow ]; then
-	cd ../..;
-fi
+cd `dirname $0`/../..;
 
 git fetch --all;
 

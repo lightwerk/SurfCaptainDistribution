@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd `dirname $0`;
+
 SESSION=$USER
 
 tmux -2 new-session -d -s $SESSION

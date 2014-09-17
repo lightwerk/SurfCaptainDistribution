@@ -2,9 +2,7 @@
 
 PULLCOUNTDOWN=0;
 
-if [ ! -f flow ]; then
-	cd ../..;
-fi
+cd `dirname $0`/../..;
 
 while true; do
 	((PULLCOUNTDOWN--));
