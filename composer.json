@@ -35,7 +35,8 @@
         "typo3/surf": "dev-master",
         "lightwerk/surfcaptain": "dev-master",
         "lightwerk/surfrunner": "dev-master",
-        "lightwerk/surftasks": "dev-master"
+        "lightwerk/surftasks": "dev-master",
+        "typo3/swiftmailer": "dev-master"
     },
     "require-dev": {
         "typo3/kickstart": "2.2.*",
