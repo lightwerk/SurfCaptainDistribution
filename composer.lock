@@ -390,16 +390,16 @@
         },
         {
             "name": "doctrine/dbal",
-            "version": "2.3.4",
+            "version": "2.3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/dbal.git",
-                "reference": "2a37b007dda8e21bdbb8fa445be8fa0064199e13"
+                "reference": "d5067b0b7e5ef59ba165dcc116c539400bf957ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/2a37b007dda8e21bdbb8fa445be8fa0064199e13",
-                "reference": "2a37b007dda8e21bdbb8fa445be8fa0064199e13",
+                "url": "https://api.github.com/repos/doctrine/dbal/zipball/d5067b0b7e5ef59ba165dcc116c539400bf957ff",
+                "reference": "d5067b0b7e5ef59ba165dcc116c539400bf957ff",
                 "shasum": ""
             },
             "require": {
@@ -423,23 +423,20 @@
             ],
             "authors": [
                 {
-                    "name": "Jonathan Wage",
-                    "email": "jonwage@gmail.com",
-                    "homepage": "http://www.jwage.com/",
-                    "role": "Creator"
-                },
-                {
-                    "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@gmail.com",
-                    "homepage": "http://www.instaclick.com"
-                },
-                {
                     "name": "Roman Borschel",
                     "email": "roman@code-factory.org"
                 },
                 {
                     "name": "Benjamin Eberlei",
                     "email": "kontakt@beberlei.de"
+                },
+                {
+                    "name": "Guilherme Blanco",
+                    "email": "guilhermeblanco@gmail.com"
+                },
+                {
+                    "name": "Jonathan Wage",
+                    "email": "jonwage@gmail.com"
                 }
             ],
             "description": "Database Abstraction Layer",
@@ -450,7 +447,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2013-05-11 07:45:37"
+            "time": "2014-09-15 11:44:29"
         },
         {
             "name": "doctrine/inflector",
@@ -803,12 +800,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "39d6d17159a415193036feecfc4af975e3935901"
+                "reference": "1f7d6c0059ea1e1ee539141e54db26ec8655d7eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/39d6d17159a415193036feecfc4af975e3935901.zip",
-                "reference": "39d6d17159a415193036feecfc4af975e3935901",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/1f7d6c0059ea1e1ee539141e54db26ec8655d7eb.zip",
+                "reference": "1f7d6c0059ea1e1ee539141e54db26ec8655d7eb",
                 "shasum": ""
             },
             "require": {
@@ -845,7 +842,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-09-11 14:54:45"
+            "time": "2014-09-17 07:22:12"
         },
         {
             "name": "symfony/console",
