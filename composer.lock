@@ -691,12 +691,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "c94eba28a211a38f6d67d4569b86d6ec2320b1d7"
+                "reference": "3c9153953be5f932e901cb4c59e25cb2fc8d70ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/c94eba28a211a38f6d67d4569b86d6ec2320b1d7.zip",
-                "reference": "c94eba28a211a38f6d67d4569b86d6ec2320b1d7",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/3c9153953be5f932e901cb4c59e25cb2fc8d70ff.zip",
+                "reference": "3c9153953be5f932e901cb4c59e25cb2fc8d70ff",
                 "shasum": ""
             },
             "require": {
@@ -732,7 +732,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2014-10-12 13:44:27"
+            "time": "2014-10-13 07:50:13"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -740,12 +740,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfrunner.git",
-                "reference": "b59f74325deeb56e0c666171123e864aa289513a"
+                "reference": "fc195adfb42809657995adf06566781277491f04"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfrunner/get/b59f74325deeb56e0c666171123e864aa289513a.zip",
-                "reference": "b59f74325deeb56e0c666171123e864aa289513a",
+                "url": "https://bitbucket.org/lightwerk/surfrunner/get/fc195adfb42809657995adf06566781277491f04.zip",
+                "reference": "fc195adfb42809657995adf06566781277491f04",
                 "shasum": ""
             },
             "require": {
@@ -783,7 +783,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2014-09-17 21:38:53"
+            "time": "2014-10-14 15:02:53"
         },
         {
             "name": "lightwerk/surftasks",
@@ -791,12 +791,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "c70b9eded6d29d800acbe15bc10703880382068b"
+                "reference": "6ea616f037a7699ffb1800ecac3377ccff302abe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/c70b9eded6d29d800acbe15bc10703880382068b.zip",
-                "reference": "c70b9eded6d29d800acbe15bc10703880382068b",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/6ea616f037a7699ffb1800ecac3377ccff302abe.zip",
+                "reference": "6ea616f037a7699ffb1800ecac3377ccff302abe",
                 "shasum": ""
             },
             "require": {
@@ -833,7 +833,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-09-29 06:42:09"
+            "time": "2014-10-14 15:02:19"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1665,28 +1665,28 @@
         },
         {
             "name": "sebastian/environment",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/environment.git",
-                "reference": "79517609ec01139cd7e9fded0dd7ce08c952ef6a"
+                "reference": "6288ebbf6fa3ed2b2ff2d69c356fbaaf4f0971a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/79517609ec01139cd7e9fded0dd7ce08c952ef6a",
-                "reference": "79517609ec01139cd7e9fded0dd7ce08c952ef6a",
+                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/6288ebbf6fa3ed2b2ff2d69c356fbaaf4f0971a7",
+                "reference": "6288ebbf6fa3ed2b2ff2d69c356fbaaf4f0971a7",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
             "require-dev": {
-                "phpunit/phpunit": "4.0.*@dev"
+                "phpunit/phpunit": "~4.3"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.0.x-dev"
+                    "dev-master": "1.1.x-dev"
                 }
             },
             "autoload": {
@@ -1701,8 +1701,7 @@
             "authors": [
                 {
                     "name": "Sebastian Bergmann",
-                    "email": "sebastian@phpunit.de",
-                    "role": "lead"
+                    "email": "sebastian@phpunit.de"
                 }
             ],
             "description": "Provides functionality to handle HHVM/PHP environments",
@@ -1712,27 +1711,27 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2014-02-18 16:17:19"
+            "time": "2014-10-07 09:23:16"
         },
         {
             "name": "sebastian/exporter",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/exporter.git",
-                "reference": "1f9a98e6f5dfe0524cb8c6166f7c82f3e9ae1529"
+                "reference": "c7d59948d6e82818e1bdff7cadb6c34710eb7dc0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/1f9a98e6f5dfe0524cb8c6166f7c82f3e9ae1529",
-                "reference": "1f9a98e6f5dfe0524cb8c6166f7c82f3e9ae1529",
+                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/c7d59948d6e82818e1bdff7cadb6c34710eb7dc0",
+                "reference": "c7d59948d6e82818e1bdff7cadb6c34710eb7dc0",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
             "require-dev": {
-                "phpunit/phpunit": "4.0.*@dev"
+                "phpunit/phpunit": "~4.0"
             },
             "type": "library",
             "extra": {
@@ -1751,11 +1750,6 @@
             ],
             "authors": [
                 {
-                    "name": "Sebastian Bergmann",
-                    "email": "sebastian@phpunit.de",
-                    "role": "lead"
-                },
-                {
                     "name": "Jeff Welch",
                     "email": "whatthejeff@gmail.com"
                 },
@@ -1764,13 +1758,16 @@
                     "email": "github@wallbash.com"
                 },
                 {
-                    "name": "Adam Harvey",
-                    "email": "aharvey@php.net",
-                    "role": "Lead"
-                },
-                {
                     "name": "Bernhard Schussek",
                     "email": "bschussek@2bepublished.at"
+                },
+                {
+                    "name": "Sebastian Bergmann",
+                    "email": "sebastian@phpunit.de"
+                },
+                {
+                    "name": "Adam Harvey",
+                    "email": "aharvey@php.net"
                 }
             ],
             "description": "Provides the functionality to export PHP variables for visualization",
@@ -1779,7 +1776,7 @@
                 "export",
                 "exporter"
             ],
-            "time": "2014-02-16 08:26:31"
+            "time": "2014-09-10 00:51:36"
         },
         {
             "name": "sebastian/version",
