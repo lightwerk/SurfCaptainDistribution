@@ -791,12 +791,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "a029df7131471b81be87a7152f8f852a7f02a379"
+                "reference": "71fc6cbf2ad0f4e52dfa6eb6cdaf2d288289c7d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/a029df7131471b81be87a7152f8f852a7f02a379.zip",
-                "reference": "a029df7131471b81be87a7152f8f852a7f02a379",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/71fc6cbf2ad0f4e52dfa6eb6cdaf2d288289c7d7.zip",
+                "reference": "71fc6cbf2ad0f4e52dfa6eb6cdaf2d288289c7d7",
                 "shasum": ""
             },
             "require": {
@@ -833,7 +833,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-11-02 12:41:59"
+            "time": "2014-11-03 09:25:14"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1158,7 +1158,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Surf.git",
-                "reference": "e38b1772e8321bbaa4f76fe6d2ddc6d2e0594949"
+                "reference": "4691907a3c8479a508a7dc55a68ebdc76bf66b57"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1174,7 +1174,7 @@
                 "GPL-3.0+"
             ],
             "description": "TYPO3 Surf is a deployment tool based on Flow and suited for a wide variety of applications",
-            "time": "2014-07-28 10:16:26"
+            "time": "2014-11-03 08:43:00"
         },
         {
             "name": "typo3/swiftmailer",
