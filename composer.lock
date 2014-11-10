@@ -740,12 +740,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfrunner.git",
-                "reference": "b87f51f0cfa259d8b3057e457bdbe05a22f2c5ad"
+                "reference": "cf53b8d94717f4a81d8f03874c69eaa99209af49"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfrunner/get/b87f51f0cfa259d8b3057e457bdbe05a22f2c5ad.zip",
-                "reference": "b87f51f0cfa259d8b3057e457bdbe05a22f2c5ad",
+                "url": "https://bitbucket.org/lightwerk/surfrunner/get/cf53b8d94717f4a81d8f03874c69eaa99209af49.zip",
+                "reference": "cf53b8d94717f4a81d8f03874c69eaa99209af49",
                 "shasum": ""
             },
             "require": {
@@ -783,7 +783,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2014-11-03 09:32:19"
+            "time": "2014-11-09 22:15:47"
         },
         {
             "name": "lightwerk/surftasks",
@@ -791,12 +791,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "71fc6cbf2ad0f4e52dfa6eb6cdaf2d288289c7d7"
+                "reference": "9d1f06746a1552a8ef52210b51ecf2021106d6c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/71fc6cbf2ad0f4e52dfa6eb6cdaf2d288289c7d7.zip",
-                "reference": "71fc6cbf2ad0f4e52dfa6eb6cdaf2d288289c7d7",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/9d1f06746a1552a8ef52210b51ecf2021106d6c2.zip",
+                "reference": "9d1f06746a1552a8ef52210b51ecf2021106d6c2",
                 "shasum": ""
             },
             "require": {
@@ -833,7 +833,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2014-11-03 09:25:14"
+            "time": "2014-11-09 22:12:51"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1158,7 +1158,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/Packages/TYPO3.Surf.git",
-                "reference": "4691907a3c8479a508a7dc55a68ebdc76bf66b57"
+                "reference": "53002a04b7ae0c1d370ed379a456513db7b40ce6"
             },
             "require": {
                 "typo3/flow": "*"
@@ -1174,7 +1174,7 @@
                 "GPL-3.0+"
             ],
             "description": "TYPO3 Surf is a deployment tool based on Flow and suited for a wide variety of applications",
-            "time": "2014-11-03 08:43:00"
+            "time": "2014-11-06 16:15:28"
         },
         {
             "name": "typo3/swiftmailer",
