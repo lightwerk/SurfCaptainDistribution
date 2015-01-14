@@ -791,12 +791,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "71dbefa35a78fe63610a7c0b6bbcd3fcde7bb96b"
+                "reference": "7c8e9a5d5bf85fc2d78c60e464172d70059b3c2f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/71dbefa35a78fe63610a7c0b6bbcd3fcde7bb96b.zip",
-                "reference": "71dbefa35a78fe63610a7c0b6bbcd3fcde7bb96b",
+                "url": "https://bitbucket.org/lightwerk/surftasks/get/7c8e9a5d5bf85fc2d78c60e464172d70059b3c2f.zip",
+                "reference": "7c8e9a5d5bf85fc2d78c60e464172d70059b3c2f",
                 "shasum": ""
             },
             "require": {
@@ -833,7 +833,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2015-01-14 11:15:10"
+            "time": "2015-01-14 11:30:37"
         },
         {
             "name": "swiftmailer/swiftmailer",
