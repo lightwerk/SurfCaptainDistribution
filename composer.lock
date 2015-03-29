@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "02318c3c02c2b8ce1a71e3e2bcdea640",
+    "hash": "da6f03ba98276cb2308a2702a651139a",
     "packages": [
         {
             "name": "composer/installers",
@@ -1190,6 +1190,30 @@
             "time": "2014-08-28 07:54:10"
         },
         {
+            "name": "typo3/form",
+            "version": "1.2.2",
+            "source": {
+                "type": "git",
+                "url": "https://git.typo3.org/Packages/TYPO3.Form.git",
+                "reference": "aa1df3da8120b7735bedbd64ea18a775c4194a26"
+            },
+            "require": {
+                "typo3/flow": "*"
+            },
+            "type": "typo3-flow-package",
+            "autoload": {
+                "psr-0": {
+                    "TYPO3\\Form": "Classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0+"
+            ],
+            "description": "Extensible and flexible API for building web forms",
+            "time": "2014-11-13 21:17:12"
+        },
+        {
             "name": "typo3/party",
             "version": "2.2.2",
             "source": {
@@ -1212,6 +1236,32 @@
             ],
             "description": "A PHP implementation of the OASIS Customer Information Quality (CIQ) XML Standard.",
             "time": "2014-06-18 10:15:35"
+        },
+        {
+            "name": "typo3/setup",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.typo3.org/Packages/TYPO3.Setup.git",
+                "reference": "fdf812d992ea8575685932f0967ba6b8a1e64268"
+            },
+            "require": {
+                "typo3/flow": "*",
+                "typo3/form": "*",
+                "typo3/twitter-bootstrap": "*"
+            },
+            "type": "typo3-flow-package",
+            "autoload": {
+                "psr-0": {
+                    "TYPO3\\Setup": "Classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0+"
+            ],
+            "description": "An extensible setup tool for TYPO3 Flow based applications",
+            "time": "2013-12-09 16:32:53"
         },
         {
             "name": "typo3/surf",
@@ -1263,6 +1313,30 @@
             ],
             "description": "A TYPO3 Flow package for easy use of SwiftMailer",
             "time": "2015-01-14 16:27:03"
+        },
+        {
+            "name": "typo3/twitter-bootstrap",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://git.typo3.org/Packages/TYPO3.Twitter.Bootstrap.git",
+                "reference": "8d21200ae5179157b17d37de5638defdb831cc86"
+            },
+            "require": {
+                "typo3/flow": "*"
+            },
+            "type": "typo3-flow-package",
+            "autoload": {
+                "psr-0": {
+                    "TYPO3\\Twitter\\Bootstrap": "Classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "description": "Simple and flexible HTML, CSS, and Javascript for popular user interface components and interactions. Packaged for use with TYPO3 Flow",
+            "time": "2014-11-13 21:28:59"
         }
     ],
     "packages-dev": [
@@ -1930,7 +2004,6 @@
         "typo3/swiftmailer": 20
     },
     "prefer-stable": false,
-    "prefer-lowest": false,
     "platform": [],
     "platform-dev": []
 }

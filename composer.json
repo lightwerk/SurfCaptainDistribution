@@ -31,6 +31,7 @@
     },
     "require": {
         "typo3/flow": "2.2.*",
+								"typo3/setup": "1.0.0",
         "doctrine/migrations": "@dev",
         "typo3/surf": "dev-master",
         "lightwerk/surfcaptain": "dev-master",
