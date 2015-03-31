@@ -30,8 +30,8 @@
         "bin-dir": "bin"
     },
     "require": {
-        "lightwerk/surfcaptain": "dev-master",
-								"typo3/flow": "2.3.x-dev",
+        "lightwerk/surfcaptain": "dev-af/setup",
+        "typo3/flow": "2.3.x-dev",
         "doctrine/migrations": "@dev",
         "typo3/surf": "dev-master",
         "lightwerk/surfrunner": "dev-master",
