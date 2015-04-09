@@ -702,18 +702,25 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "59f5f31103ee62918a0fd7fd60760d67e20a7f57"
+                "reference": "a9616e96bac9ce6a5d7baa19dd353fe155f6c3e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/59f5f31103ee62918a0fd7fd60760d67e20a7f57.zip",
-                "reference": "59f5f31103ee62918a0fd7fd60760d67e20a7f57",
+                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/a9616e96bac9ce6a5d7baa19dd353fe155f6c3e2.zip",
+                "reference": "a9616e96bac9ce6a5d7baa19dd353fe155f6c3e2",
                 "shasum": ""
             },
             "require": {
+                "typo3/flow": "2.3.*",
+                "typo3/setup": "1.1.0",
                 "typo3/surf": "*"
             },
             "type": "typo3-flow-package",
+            "extra": {
+                "typo3/flow": {
+                    "manage-resources": true
+                }
+            },
             "autoload": {
                 "psr-0": {
                     "Lightwerk\\SurfCaptain": "Classes"
@@ -743,7 +750,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2015-03-04 18:25:54"
+            "time": "2015-04-08 16:30:04"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -1197,6 +1204,30 @@
             "time": "2014-12-02 16:51:44"
         },
         {
+            "name": "typo3/form",
+            "version": "1.2.2",
+            "source": {
+                "type": "git",
+                "url": "https://git.typo3.org/Packages/TYPO3.Form.git",
+                "reference": "aa1df3da8120b7735bedbd64ea18a775c4194a26"
+            },
+            "require": {
+                "typo3/flow": "*"
+            },
+            "type": "typo3-flow-package",
+            "autoload": {
+                "psr-0": {
+                    "TYPO3\\Form": "Classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0+"
+            ],
+            "description": "Extensible and flexible API for building web forms",
+            "time": "2014-11-13 21:17:12"
+        },
+        {
             "name": "typo3/party",
             "version": "2.3.3",
             "source": {
@@ -1219,6 +1250,32 @@
             ],
             "description": "A PHP implementation of the OASIS Customer Information Quality (CIQ) XML Standard.",
             "time": "2014-12-10 23:22:30"
+        },
+        {
+            "name": "typo3/setup",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.typo3.org/Packages/TYPO3.Setup.git",
+                "reference": "13231c612cc9f94549a6dea3aa74d75c22e16590"
+            },
+            "require": {
+                "typo3/flow": "*",
+                "typo3/form": "*",
+                "typo3/twitter-bootstrap": "*"
+            },
+            "type": "typo3-flow-package",
+            "autoload": {
+                "psr-0": {
+                    "TYPO3\\Setup": "Classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0+"
+            ],
+            "description": "An extensible setup tool for TYPO3 Flow based applications",
+            "time": "2014-10-19 15:24:59"
         },
         {
             "name": "typo3/surf",
@@ -1270,6 +1327,30 @@
             ],
             "description": "A TYPO3 Flow package for easy use of SwiftMailer",
             "time": "2015-01-14 16:27:03"
+        },
+        {
+            "name": "typo3/twitter-bootstrap",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://git.typo3.org/Packages/TYPO3.Twitter.Bootstrap.git",
+                "reference": "8d21200ae5179157b17d37de5638defdb831cc86"
+            },
+            "require": {
+                "typo3/flow": "*"
+            },
+            "type": "typo3-flow-package",
+            "autoload": {
+                "psr-0": {
+                    "TYPO3\\Twitter\\Bootstrap": "Classes"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "description": "Simple and flexible HTML, CSS, and Javascript for popular user interface components and interactions. Packaged for use with TYPO3 Flow",
+            "time": "2014-11-13 21:28:59"
         }
     ],
     "packages-dev": [
