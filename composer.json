@@ -2,7 +2,7 @@
     "name": "lightwerk/surfcaptaindistribution",
     "description": "Lightwerk SurfCaptain Distribution",
     "license": ["GPL-3.0+"],
-    "homepage": "https://bitbucket.org/lightwerk/surfcaptaindistribution",
+    "homepage": "https://github.com/lightwerk/SurfCaptainDistribution",
     "keywords": [
         "TYPO3 Surf",
         "Deployment"
@@ -22,8 +22,8 @@
         }
     ],
     "support": {
-        "issues": "https://bitbucket.org/lightwerk/surfcaptaindistribution/issues",
-        "source": "https://bitbucket.org/lightwerk/surfcaptaindistribution/src"
+        "issues": "https://github.com/lightwerk/SurfCaptainDistribution/issues",
+        "source": "https://github.com/lightwerk/SurfCaptainDistribution"
     },
     "config": {
         "vendor-dir": "Packages/Libraries",
