@@ -1,7 +1,7 @@
 install
 -------
 
-	git clone git@bitbucket.org:lightwerk/surfcaptaindistribution.git
+	git clone git@github.com:lightwerk/SurfCaptainDistribution.git
 	cd surfcaptaindistribution
 	composer install
 	sudo ./flow core:setfilepermissions <cli-user> <www-user> <group>
