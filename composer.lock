@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "2e9e32923e3e2738814fed18e02af7c1",
+    "hash": "b568ce43e3ee14a40a7273be99c21fde",
     "packages": [
         {
             "name": "composer/installers",
@@ -701,13 +701,13 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain.git",
-                "reference": "a9616e96bac9ce6a5d7baa19dd353fe155f6c3e2"
+                "url": "https://github.com/lightwerk/SurfCaptain.git",
+                "reference": "0f8d6d5ce275fadf31d57c8596ca77a9d5703dce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfcaptain/get/a9616e96bac9ce6a5d7baa19dd353fe155f6c3e2.zip",
-                "reference": "a9616e96bac9ce6a5d7baa19dd353fe155f6c3e2",
+                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/0f8d6d5ce275fadf31d57c8596ca77a9d5703dce",
+                "reference": "0f8d6d5ce275fadf31d57c8596ca77a9d5703dce",
                 "shasum": ""
             },
             "require": {
@@ -745,25 +745,25 @@
                 }
             ],
             "description": "SurfCaptain is a web front-end for TYPO3 Surf.",
-            "homepage": "https://bitbucket.org/lightwerk/surfcaptain",
+            "homepage": "https://github.com/lightwerk/SurfCaptain",
             "keywords": [
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2015-04-08 16:30:04"
+            "time": "2015-04-17 05:56:41"
         },
         {
             "name": "lightwerk/surfrunner",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://bitbucket.org/lightwerk/surfrunner.git",
-                "reference": "ab27e19ffc2113d68adbe57d4555d220705749c7"
+                "url": "https://github.com/lightwerk/SurfRunner.git",
+                "reference": "3b50b6a07e02c4ffc8614033a4513063a5f1b37d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surfrunner/get/ab27e19ffc2113d68adbe57d4555d220705749c7.zip",
-                "reference": "ab27e19ffc2113d68adbe57d4555d220705749c7",
+                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/3b50b6a07e02c4ffc8614033a4513063a5f1b37d",
+                "reference": "3b50b6a07e02c4ffc8614033a4513063a5f1b37d",
                 "shasum": ""
             },
             "require": {
@@ -795,26 +795,26 @@
                 }
             ],
             "description": "SurfRunner executes Surf Deployments with JSON configurations.",
-            "homepage": "https://bitbucket.org/lightwerk/surfrunner",
+            "homepage": "https://github.com/lightwerk/SurfRunner",
             "keywords": [
                 "TYPO3 Surf",
                 "command line interface",
                 "deployment"
             ],
-            "time": "2015-02-25 21:27:11"
+            "time": "2015-04-17 05:56:20"
         },
         {
             "name": "lightwerk/surftasks",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://bitbucket.org/lightwerk/surftasks.git",
-                "reference": "eae1bc2f5fb0ffc55c904e889ede64e7dad7fc15"
+                "url": "https://github.com/lightwerk/SurfTasks.git",
+                "reference": "1b6b4b939097015cac4362ac5d4378203082be38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/lightwerk/surftasks/get/eae1bc2f5fb0ffc55c904e889ede64e7dad7fc15.zip",
-                "reference": "eae1bc2f5fb0ffc55c904e889ede64e7dad7fc15",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/1b6b4b939097015cac4362ac5d4378203082be38",
+                "reference": "1b6b4b939097015cac4362ac5d4378203082be38",
                 "shasum": ""
             },
             "require": {
@@ -845,13 +845,13 @@
                 }
             ],
             "description": "Additional tasks for TYPO3.Surf.",
-            "homepage": "https://bitbucket.org/lightwerk/surftasks",
+            "homepage": "https://github.com/lightwerk/SurfTasks",
             "keywords": [
                 "TYPO3 Surf",
                 "Tasks",
                 "deployment"
             ],
-            "time": "2015-02-23 18:02:15"
+            "time": "2015-04-17 05:56:49"
         },
         {
             "name": "swiftmailer/swiftmailer",
