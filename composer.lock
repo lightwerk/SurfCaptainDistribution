@@ -571,12 +571,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/migrations.git",
-                "reference": "39d6223d919baa35883270199c7e935acc440257"
+                "reference": "98092aa3d6d5e5401796d69895d1caf49ec8971f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/39d6223d919baa35883270199c7e935acc440257",
-                "reference": "39d6223d919baa35883270199c7e935acc440257",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/98092aa3d6d5e5401796d69895d1caf49ec8971f",
+                "reference": "98092aa3d6d5e5401796d69895d1caf49ec8971f",
                 "shasum": ""
             },
             "require": {
@@ -621,7 +621,7 @@
                 "database",
                 "migrations"
             ],
-            "time": "2015-04-22 09:24:33"
+            "time": "2015-04-27 06:15:55"
         },
         {
             "name": "doctrine/orm",
@@ -700,12 +700,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfCaptain.git",
-                "reference": "b25798b059ebd290c0acb91b1e65ea5e30eec292"
+                "reference": "d7a6892b6e1b949647bfa84f60650e6256828a11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/b25798b059ebd290c0acb91b1e65ea5e30eec292",
-                "reference": "b25798b059ebd290c0acb91b1e65ea5e30eec292",
+                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/d7a6892b6e1b949647bfa84f60650e6256828a11",
+                "reference": "d7a6892b6e1b949647bfa84f60650e6256828a11",
                 "shasum": ""
             },
             "require": {
@@ -748,7 +748,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2015-04-22 16:34:34"
+            "time": "2015-04-27 15:59:09"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -756,13 +756,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfRunner.git",
-
-                "reference": "5ba4e6af836ce27e7cc8c57d88683acd7b47e46b"
+                "reference": "cb5cf3fcccf82f3d29250acdca8a50bad3a3bea9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/5ba4e6af836ce27e7cc8c57d88683acd7b47e46b",
-                "reference": "5ba4e6af836ce27e7cc8c57d88683acd7b47e46b",
+                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/cb5cf3fcccf82f3d29250acdca8a50bad3a3bea9",
+                "reference": "cb5cf3fcccf82f3d29250acdca8a50bad3a3bea9",
                 "shasum": ""
             },
             "require": {
@@ -800,7 +799,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2015-04-24 15:58:35"
+            "time": "2015-04-27 15:57:08"
         },
         {
             "name": "lightwerk/surftasks",
@@ -808,12 +807,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "1b5b8c93deeb48a1f610c62fd28f90c0f64834d8"
+                "reference": "143c468aab1012d8d97484a269b893d1e3a1912c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/1b5b8c93deeb48a1f610c62fd28f90c0f64834d8",
-                "reference": "1b5b8c93deeb48a1f610c62fd28f90c0f64834d8",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/143c468aab1012d8d97484a269b893d1e3a1912c",
+                "reference": "143c468aab1012d8d97484a269b893d1e3a1912c",
                 "shasum": ""
             },
             "require": {
@@ -850,7 +849,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2015-04-24 15:58:41"
+            "time": "2015-05-28 12:27:38"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1142,7 +1141,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "90d8044d1def048437131014ef37c56acc02ab1d"
+                "reference": "402b2f36399e119e20f1c8fb73e3bd55be5339a0"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1176,7 +1175,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-04-13 15:29:07"
+            "time": "2015-04-26 20:53:48"
         },
         {
             "name": "typo3/fluid",
