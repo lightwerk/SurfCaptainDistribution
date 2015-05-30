@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "hash": "b568ce43e3ee14a40a7273be99c21fde",
@@ -575,7 +575,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/98092aa3d6d5e5401796d69895d1caf49ec8971f",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/abb87d84ed21fd30c27bd3b52252a495a36d32fb",
                 "reference": "98092aa3d6d5e5401796d69895d1caf49ec8971f",
                 "shasum": ""
             },
@@ -700,12 +700,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfCaptain.git",
-                "reference": "d7a6892b6e1b949647bfa84f60650e6256828a11"
+                "reference": "38fe9ca6badc6b8a4c7b7c2c5ed524cae84378e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/d7a6892b6e1b949647bfa84f60650e6256828a11",
-                "reference": "d7a6892b6e1b949647bfa84f60650e6256828a11",
+                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/38fe9ca6badc6b8a4c7b7c2c5ed524cae84378e6",
+                "reference": "38fe9ca6badc6b8a4c7b7c2c5ed524cae84378e6",
                 "shasum": ""
             },
             "require": {
@@ -748,7 +748,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2015-04-27 15:59:09"
+            "time": "2015-05-21 05:51:31"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -760,7 +760,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/cb5cf3fcccf82f3d29250acdca8a50bad3a3bea9",
+                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/7fc6cc9ff6f060a1f2c4bae44b632d8af706cb83",
                 "reference": "cb5cf3fcccf82f3d29250acdca8a50bad3a3bea9",
                 "shasum": ""
             },
@@ -1230,7 +1230,7 @@
             "version": "2.3.3",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Party.git",
+                "url": "git://git.typo3.org/Packages/TYPO3.Party.git",
                 "reference": "6b359d0b9bd1c4e4d9fa9b9eace39504f7df88ee"
             },
             "require": {
