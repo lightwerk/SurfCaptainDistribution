@@ -756,12 +756,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfRunner.git",
-                "reference": "cb5cf3fcccf82f3d29250acdca8a50bad3a3bea9"
+                "reference": "7fc6cc9ff6f060a1f2c4bae44b632d8af706cb83"
             },
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/7fc6cc9ff6f060a1f2c4bae44b632d8af706cb83",
-                "reference": "cb5cf3fcccf82f3d29250acdca8a50bad3a3bea9",
+                "reference": "7fc6cc9ff6f060a1f2c4bae44b632d8af706cb83",
                 "shasum": ""
             },
             "require": {
@@ -799,7 +799,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2015-04-27 15:57:08"
+            "time": "2015-05-07 18:06:42"
         },
         {
             "name": "lightwerk/surftasks",
