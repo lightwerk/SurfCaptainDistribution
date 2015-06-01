@@ -700,12 +700,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfCaptain.git",
-                "reference": "38fe9ca6badc6b8a4c7b7c2c5ed524cae84378e6"
+                "reference": "0a791ee42337fe3311b42829ae13076ee4aeb724"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/38fe9ca6badc6b8a4c7b7c2c5ed524cae84378e6",
-                "reference": "38fe9ca6badc6b8a4c7b7c2c5ed524cae84378e6",
+                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/0a791ee42337fe3311b42829ae13076ee4aeb724",
+                "reference": "0a791ee42337fe3311b42829ae13076ee4aeb724",
                 "shasum": ""
             },
             "require": {
@@ -748,7 +748,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2015-05-21 05:51:31"
+            "time": "2015-06-01 08:22:59"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -807,12 +807,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "143c468aab1012d8d97484a269b893d1e3a1912c"
+                "reference": "687deaa12c2b96da110357e0e1cf0cd48e719dab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/143c468aab1012d8d97484a269b893d1e3a1912c",
-                "reference": "143c468aab1012d8d97484a269b893d1e3a1912c",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/687deaa12c2b96da110357e0e1cf0cd48e719dab",
+                "reference": "687deaa12c2b96da110357e0e1cf0cd48e719dab",
                 "shasum": ""
             },
             "require": {
@@ -849,7 +849,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2015-05-28 12:27:38"
+            "time": "2015-06-01 08:21:48"
         },
         {
             "name": "swiftmailer/swiftmailer",
