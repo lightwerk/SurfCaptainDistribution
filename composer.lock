@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "hash": "b568ce43e3ee14a40a7273be99c21fde",
@@ -575,7 +575,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/abb87d84ed21fd30c27bd3b52252a495a36d32fb",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/98092aa3d6d5e5401796d69895d1caf49ec8971f",
                 "reference": "98092aa3d6d5e5401796d69895d1caf49ec8971f",
                 "shasum": ""
             },
@@ -756,12 +756,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfRunner.git",
-                "reference": "7fc6cc9ff6f060a1f2c4bae44b632d8af706cb83"
+                "reference": "6457a82ff7b40712756fe4591699c1036dd9a6b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/7fc6cc9ff6f060a1f2c4bae44b632d8af706cb83",
-                "reference": "7fc6cc9ff6f060a1f2c4bae44b632d8af706cb83",
+                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/6457a82ff7b40712756fe4591699c1036dd9a6b3",
+                "reference": "6457a82ff7b40712756fe4591699c1036dd9a6b3",
                 "shasum": ""
             },
             "require": {
@@ -799,7 +799,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2015-05-07 18:06:42"
+            "time": "2015-06-03 08:26:37"
         },
         {
             "name": "lightwerk/surftasks",
@@ -807,12 +807,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "687deaa12c2b96da110357e0e1cf0cd48e719dab"
+                "reference": "8581f2e1e69f674a62e159fa43ccb4474fa291a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/687deaa12c2b96da110357e0e1cf0cd48e719dab",
-                "reference": "687deaa12c2b96da110357e0e1cf0cd48e719dab",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/8581f2e1e69f674a62e159fa43ccb4474fa291a7",
+                "reference": "8581f2e1e69f674a62e159fa43ccb4474fa291a7",
                 "shasum": ""
             },
             "require": {
@@ -849,7 +849,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2015-06-01 08:21:48"
+            "time": "2015-06-03 08:26:48"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1229,7 +1229,7 @@
             "version": "2.3.3",
             "source": {
                 "type": "git",
-                "url": "git://git.typo3.org/Packages/TYPO3.Party.git",
+                "url": "https://git.typo3.org/Packages/TYPO3.Party.git",
                 "reference": "6b359d0b9bd1c4e4d9fa9b9eace39504f7df88ee"
             },
             "require": {
