@@ -6,7 +6,6 @@ composer dependencies. Follow theses steps to enter the Setup:
 	git clone git@github.com:lightwerk/SurfCaptainDistribution.git
 	cd surfcaptaindistribution
 	composer install
-	copy the content of Packages/Application/Lightwerk.SurfCaptain/Configuration/Routes.yaml to Configuration/Routes.yaml
 	sudo ./flow core:setfilepermissions <cli-user> <www-user> <group>
 	Now go to http://<your-domain>/setup and follow the on-screen instructions.
 
@@ -26,3 +25,6 @@ Further Documentation
 -------
 Check out <https://github.com/lightwerk/SurfCaptain/blob/master/Documentation/>
 
+Troubleshooting
+-------
+If you have trouble navigating to the /setup URL, please make sure that the content ofhave a look at  Configuration/Routes.yaml and compare it with Packages/Application/Lightwerk.SurfCaptain/Configuration/Routes.yaml
