@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "hash": "b568ce43e3ee14a40a7273be99c21fde",
@@ -575,7 +575,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/98092aa3d6d5e5401796d69895d1caf49ec8971f",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/78954cce4962a4655ff47c0751eb78021fbaf2cc",
                 "reference": "98092aa3d6d5e5401796d69895d1caf49ec8971f",
                 "shasum": ""
             },
@@ -704,7 +704,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/0a791ee42337fe3311b42829ae13076ee4aeb724",
+                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/1f7c6a1cc66850ae14c7a0a849662f2c97ca14b5",
                 "reference": "0a791ee42337fe3311b42829ae13076ee4aeb724",
                 "shasum": ""
             },
@@ -756,17 +756,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfRunner.git",
-                "reference": "6457a82ff7b40712756fe4591699c1036dd9a6b3"
+                "reference": "ce1e1437782ab7e6d130d4400074b6c6d822d556"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/6457a82ff7b40712756fe4591699c1036dd9a6b3",
-                "reference": "6457a82ff7b40712756fe4591699c1036dd9a6b3",
+                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/ce1e1437782ab7e6d130d4400074b6c6d822d556",
+                "reference": "ce1e1437782ab7e6d130d4400074b6c6d822d556",
                 "shasum": ""
             },
             "require": {
                 "lightwerk/surfcaptain": "*",
-                "typo3/surf": "*"
+                "lightwerk/surftasks": "*"
             },
             "type": "typo3-flow-package",
             "autoload": {
@@ -799,7 +799,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2015-06-03 08:26:37"
+            "time": "2015-07-22 17:57:30"
         },
         {
             "name": "lightwerk/surftasks",
@@ -807,12 +807,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "8581f2e1e69f674a62e159fa43ccb4474fa291a7"
+                "reference": "86d60e6d08cfec64fc7184ffe39a09223d5b659f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/8581f2e1e69f674a62e159fa43ccb4474fa291a7",
-                "reference": "8581f2e1e69f674a62e159fa43ccb4474fa291a7",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/86d60e6d08cfec64fc7184ffe39a09223d5b659f",
+                "reference": "86d60e6d08cfec64fc7184ffe39a09223d5b659f",
                 "shasum": ""
             },
             "require": {
@@ -849,7 +849,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2015-06-03 08:26:48"
+            "time": "2015-07-22 17:58:30"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1229,7 +1229,7 @@
             "version": "2.3.3",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Party.git",
+                "url": "git://git.typo3.org/Packages/TYPO3.Party.git",
                 "reference": "6b359d0b9bd1c4e4d9fa9b9eace39504f7df88ee"
             },
             "require": {
