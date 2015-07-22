@@ -27,4 +27,4 @@ Check out <https://github.com/lightwerk/SurfCaptain/blob/master/Documentation/>
 
 Troubleshooting
 -------
-If you have trouble navigating to the /setup URL, please make sure that the content ofhave a look at  Configuration/Routes.yaml and compare it with Packages/Application/Lightwerk.SurfCaptain/Configuration/Routes.yaml
+If you have trouble navigating to the /setup URL, please have a look at Configuration/Routes.yaml and compare it with Packages/Application/Lightwerk.SurfCaptain/Configuration/Routes.yaml.
