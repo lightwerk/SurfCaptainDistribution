@@ -807,12 +807,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "86d60e6d08cfec64fc7184ffe39a09223d5b659f"
+                "reference": "a8d560afe41c6006cdb36b113f8fe77b8f326210"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/86d60e6d08cfec64fc7184ffe39a09223d5b659f",
-                "reference": "86d60e6d08cfec64fc7184ffe39a09223d5b659f",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/a8d560afe41c6006cdb36b113f8fe77b8f326210",
+                "reference": "a8d560afe41c6006cdb36b113f8fe77b8f326210",
                 "shasum": ""
             },
             "require": {
@@ -849,7 +849,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2015-07-22 17:58:30"
+            "time": "2015-09-23 08:21:45"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -908,12 +908,12 @@
             "version": "v2.7.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symfony/Console.git",
+                "url": "https://github.com/symfony/console.git",
                 "reference": "8cf484449130cabfd98dcb4694ca9945802a21ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/8cf484449130cabfd98dcb4694ca9945802a21ed",
+                "url": "https://api.github.com/repos/symfony/console/zipball/8cf484449130cabfd98dcb4694ca9945802a21ed",
                 "reference": "8cf484449130cabfd98dcb4694ca9945802a21ed",
                 "shasum": ""
             },
@@ -966,12 +966,12 @@
             "target-dir": "Symfony/Component/DomCrawler",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symfony/DomCrawler.git",
+                "url": "https://github.com/symfony/dom-crawler.git",
                 "reference": "3860edcf7ff7e173cfe2151f0d425e610e77cc35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/DomCrawler/zipball/3860edcf7ff7e173cfe2151f0d425e610e77cc35",
+                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/3860edcf7ff7e173cfe2151f0d425e610e77cc35",
                 "reference": "3860edcf7ff7e173cfe2151f0d425e610e77cc35",
                 "shasum": ""
             },
@@ -1114,8 +1114,14 @@
             "version": "2.3.6",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Eel.git",
-                "reference": "497f397c79b672bdcb33cf4952f3af6a7f473cd0"
+                "url": "https://github.com/neos/eel.git",
+                "reference": "6047b07751745d356ac992687da885487d2ba9b0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/neos/eel/zipball/6047b07751745d356ac992687da885487d2ba9b0",
+                "reference": "6047b07751745d356ac992687da885487d2ba9b0",
+                "shasum": ""
             },
             "require": {
                 "typo3/flow": "2.3.*"
@@ -1131,15 +1137,21 @@
                 "LGPL-3.0+"
             ],
             "description": "The Embedded Expression Language (Eel) is a building block for creating Domain Specific Languages",
-            "time": "2015-06-12 06:36:43"
+            "time": "2015-07-01 12:34:54"
         },
         {
             "name": "typo3/flow",
             "version": "2.3.6",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "83547c3fa8a8fa95aa40b00afc5117d2d38a9f00"
+                "url": "https://github.com/neos/flow.git",
+                "reference": "a14655bbb19257a2006eaae537abfe9d556f2966"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/neos/flow/zipball/a14655bbb19257a2006eaae537abfe9d556f2966",
+                "reference": "a14655bbb19257a2006eaae537abfe9d556f2966",
+                "shasum": ""
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1180,8 +1192,14 @@
             "version": "2.3.6",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Fluid.git",
-                "reference": "548ab0ac011db9fd34e56c2712d73ba20c7321d3"
+                "url": "https://github.com/neos/fluid.git",
+                "reference": "c8cf6823aca9d5af7cf8010a5291a906d83b30dd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/neos/fluid/zipball/c8cf6823aca9d5af7cf8010a5291a906d83b30dd",
+                "reference": "c8cf6823aca9d5af7cf8010a5291a906d83b30dd",
+                "shasum": ""
             },
             "require": {
                 "typo3/flow": "2.3.*"
@@ -1197,14 +1215,14 @@
                 "LGPL-3.0+"
             ],
             "description": "Next-Generation Templating Framework for TYPO3 Flow and TYPO3 Neos, also backported to TYPO3 CMS",
-            "time": "2015-06-26 16:19:35"
+            "time": "2015-06-29 07:19:56"
         },
         {
             "name": "typo3/form",
             "version": "1.2.2",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Form.git",
+                "url": "https://github.com/neos/form.git",
                 "reference": "aa1df3da8120b7735bedbd64ea18a775c4194a26"
             },
             "require": {
@@ -1228,8 +1246,14 @@
             "version": "2.3.6",
             "source": {
                 "type": "git",
-                "url": "git://git.typo3.org/Packages/TYPO3.Party.git",
-                "reference": "773e66615a0150abb02699ac11c6ba3aa6cd545b"
+                "url": "https://github.com/neos/party.git",
+                "reference": "fbcb7a86007e2b5c3bcaf83887c4524e0ad87980"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/neos/party/zipball/fbcb7a86007e2b5c3bcaf83887c4524e0ad87980",
+                "reference": "fbcb7a86007e2b5c3bcaf83887c4524e0ad87980",
+                "shasum": ""
             },
             "require": {
                 "typo3/flow": "2.3.*"
@@ -1252,7 +1276,7 @@
             "version": "1.1.0",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Setup.git",
+                "url": "https://github.com/neos/setup.git",
                 "reference": "13231c612cc9f94549a6dea3aa74d75c22e16590"
             },
             "require": {
@@ -1303,7 +1327,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.SwiftMailer.git",
+                "url": "https://github.com/neos/swiftmailer.git",
                 "reference": "e550c7d2c9fc42b471fcbddf6cbc9ff7a6cb01dc"
             },
             "require": {
@@ -1329,7 +1353,7 @@
             "version": "1.0.2",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Twitter.Bootstrap.git",
+                "url": "https://github.com/neos/twitter-bootstrap.git",
                 "reference": "8d21200ae5179157b17d37de5638defdb831cc86"
             },
             "require": {
@@ -2140,7 +2164,7 @@
             "version": "2.3.4",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Flow/BuildEssentials.git",
+                "url": "https://github.com/neos/BuildEssentials.git",
                 "reference": "eb5e9b6f47f106a4a0866774cbf92e35a35cbbf7"
             },
             "require": {
@@ -2162,7 +2186,7 @@
             "version": "2.3.3",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Kickstart.git",
+                "url": "https://github.com/neos/kickstart.git",
                 "reference": "9df0bd893d8a4e719f93ec17ac0ada2e904db5f6"
             },
             "require": {
