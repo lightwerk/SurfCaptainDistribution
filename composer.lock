@@ -5,6 +5,7 @@
         "This file is @generated automatically"
     ],
     "hash": "f571a5061b78a9edaf6739b7b950f185",
+    "content-hash": "034f326d0dffd26a709a4f6625af9145",
     "packages": [
         {
             "name": "composer/installers",
@@ -704,7 +705,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/4a345adbb8ce345c8cf908ef22d63acec42e161e",
+                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/54d0a5511951d569e43c5c81e050cb6bbff645d1",
                 "reference": "4a345adbb8ce345c8cf908ef22d63acec42e161e",
                 "shasum": ""
             },
@@ -756,12 +757,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfRunner.git",
-                "reference": "ce1e1437782ab7e6d130d4400074b6c6d822d556"
+                "reference": "c6eb44c213c306c7c54a9a5ef42ec5ba4740f632"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/ce1e1437782ab7e6d130d4400074b6c6d822d556",
-                "reference": "ce1e1437782ab7e6d130d4400074b6c6d822d556",
+                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/c6eb44c213c306c7c54a9a5ef42ec5ba4740f632",
+                "reference": "c6eb44c213c306c7c54a9a5ef42ec5ba4740f632",
                 "shasum": ""
             },
             "require": {
@@ -799,7 +800,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2015-07-22 17:57:30"
+            "time": "2015-11-04 06:29:20"
         },
         {
             "name": "lightwerk/surftasks",
@@ -807,12 +808,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "a8d560afe41c6006cdb36b113f8fe77b8f326210"
+                "reference": "f7bc688759d7e4425ce6a0491daa3373b9f800a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/a8d560afe41c6006cdb36b113f8fe77b8f326210",
-                "reference": "a8d560afe41c6006cdb36b113f8fe77b8f326210",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/f7bc688759d7e4425ce6a0491daa3373b9f800a3",
+                "reference": "f7bc688759d7e4425ce6a0491daa3373b9f800a3",
                 "shasum": ""
             },
             "require": {
@@ -849,7 +850,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2015-09-23 08:21:45"
+            "time": "2015-11-04 06:29:09"
         },
         {
             "name": "swiftmailer/swiftmailer",
