@@ -808,12 +808,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "f7bc688759d7e4425ce6a0491daa3373b9f800a3"
+                "reference": "0f4dfa446358d9fee8d5927551319d002f3c1709"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/f7bc688759d7e4425ce6a0491daa3373b9f800a3",
-                "reference": "f7bc688759d7e4425ce6a0491daa3373b9f800a3",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/0f4dfa446358d9fee8d5927551319d002f3c1709",
+                "reference": "0f4dfa446358d9fee8d5927551319d002f3c1709",
                 "shasum": ""
             },
             "require": {
@@ -850,7 +850,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2015-11-04 06:29:09"
+            "time": "2015-11-06 16:11:16"
         },
         {
             "name": "swiftmailer/swiftmailer",
