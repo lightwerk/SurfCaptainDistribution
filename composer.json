@@ -33,7 +33,7 @@
     "require": {
         "lightwerk/surfcaptain": "dev-master",
         "typo3/flow": "2.3.6",
-        "typo3/surf": "dev-master",
+        "typo3/surf": "~0.9",
         "lightwerk/surfrunner": "dev-master",
         "lightwerk/surftasks": "dev-master",
         "typo3/swiftmailer": "dev-master"
