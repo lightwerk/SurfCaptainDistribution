@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "485439f40faff12590c9993e41351362",
-    "content-hash": "3292e087808782c2c69fe1583f4ed543",
+    "hash": "4560c266db734240ee911b897cffbd1d",
+    "content-hash": "c68bd4c14e47b021ac900eeab8d8d407",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -681,19 +681,41 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfCaptain.git",
-                "reference": "fa185ed57d76be9cfc60c34ee71956c2df58428e"
+                "reference": "cb717d92c0037057a27143463fb6fa13ddc60983"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/fa185ed57d76be9cfc60c34ee71956c2df58428e",
-                "reference": "fa185ed57d76be9cfc60c34ee71956c2df58428e",
+                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/cb717d92c0037057a27143463fb6fa13ddc60983",
+                "reference": "cb717d92c0037057a27143463fb6fa13ddc60983",
                 "shasum": ""
+            },
+            "require": {
+                "typo3/flow": "^3.0",
+                "typo3/setup": "^3.0",
+                "typo3/surf": "*"
             },
             "type": "typo3-flow-package",
             "extra": {
                 "typo3/flow": {
                     "manage-resources": true
-                }
+                },
+                "applied-flow-migrations": [
+                    "TYPO3.FLOW3-201201261636",
+                    "TYPO3.Fluid-201205031303",
+                    "TYPO3.FLOW3-201205292145",
+                    "TYPO3.FLOW3-201206271128",
+                    "TYPO3.FLOW3-201209201112",
+                    "TYPO3.Flow-201209251426",
+                    "TYPO3.Flow-201211151101",
+                    "TYPO3.Flow-201212051340",
+                    "TYPO3.Flow-201310031523",
+                    "TYPO3.Flow-201405111147",
+                    "TYPO3.Fluid-20141113120800",
+                    "TYPO3.Flow-20141113121400",
+                    "TYPO3.Fluid-20141121091700",
+                    "TYPO3.Fluid-20150214130800",
+                    "TYPO3.Flow-20151113161300"
+                ]
             },
             "autoload": {
                 "psr-4": {
@@ -724,7 +746,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2017-01-08 11:12:18"
+            "time": "2017-01-08 11:29:40"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -732,15 +754,34 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfRunner.git",
-                "reference": "d331598277948d7de6a65adc80b9dd6c84e13745"
+                "reference": "84a39ff1dfc5bc3fa64c302cf59254730d6a6e04"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/d331598277948d7de6a65adc80b9dd6c84e13745",
-                "reference": "d331598277948d7de6a65adc80b9dd6c84e13745",
+                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/84a39ff1dfc5bc3fa64c302cf59254730d6a6e04",
+                "reference": "84a39ff1dfc5bc3fa64c302cf59254730d6a6e04",
                 "shasum": ""
             },
             "type": "typo3-flow-package",
+            "extra": {
+                "applied-flow-migrations": [
+                    "TYPO3.FLOW3-201201261636",
+                    "TYPO3.Fluid-201205031303",
+                    "TYPO3.FLOW3-201205292145",
+                    "TYPO3.FLOW3-201206271128",
+                    "TYPO3.FLOW3-201209201112",
+                    "TYPO3.Flow-201209251426",
+                    "TYPO3.Flow-201211151101",
+                    "TYPO3.Flow-201212051340",
+                    "TYPO3.Flow-201310031523",
+                    "TYPO3.Flow-201405111147",
+                    "TYPO3.Fluid-20141113120800",
+                    "TYPO3.Flow-20141113121400",
+                    "TYPO3.Fluid-20141121091700",
+                    "TYPO3.Fluid-20150214130800",
+                    "TYPO3.Flow-20151113161300"
+                ]
+            },
             "autoload": {
                 "psr-4": {
                     "Lightwerk\\SurfRunner\\": "Classes/Lightwerk/SurfRunner/"
@@ -771,7 +812,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2017-01-08 11:11:59"
+            "time": "2017-01-08 11:19:43"
         },
         {
             "name": "lightwerk/surftasks",
@@ -779,15 +820,37 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "9254edb044d16efb3b36e3f7c111e89a4b545fc5"
+                "reference": "f16362e349194f454c265eebdb25386564e201c5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/9254edb044d16efb3b36e3f7c111e89a4b545fc5",
-                "reference": "9254edb044d16efb3b36e3f7c111e89a4b545fc5",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/f16362e349194f454c265eebdb25386564e201c5",
+                "reference": "f16362e349194f454c265eebdb25386564e201c5",
                 "shasum": ""
             },
+            "require": {
+                "typo3/surf": "*"
+            },
             "type": "typo3-flow-package",
+            "extra": {
+                "applied-flow-migrations": [
+                    "TYPO3.FLOW3-201201261636",
+                    "TYPO3.Fluid-201205031303",
+                    "TYPO3.FLOW3-201205292145",
+                    "TYPO3.FLOW3-201206271128",
+                    "TYPO3.FLOW3-201209201112",
+                    "TYPO3.Flow-201209251426",
+                    "TYPO3.Flow-201211151101",
+                    "TYPO3.Flow-201212051340",
+                    "TYPO3.Flow-201310031523",
+                    "TYPO3.Flow-201405111147",
+                    "TYPO3.Fluid-20141113120800",
+                    "TYPO3.Flow-20141113121400",
+                    "TYPO3.Fluid-20141121091700",
+                    "TYPO3.Fluid-20150214130800",
+                    "TYPO3.Flow-20151113161300"
+                ]
+            },
             "autoload": {
                 "psr-4": {
                     "Lightwerk\\SurfTasks\\": "Classes/Lightwerk/SurfTasks"
@@ -818,7 +881,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2017-01-08 11:11:53"
+            "time": "2017-01-08 11:29:30"
         },
         {
             "name": "neos/composer-plugin",
