@@ -681,16 +681,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfCaptain.git",
-                "reference": "d0c1424442a5b57a900e93c89fccb7c15548f618"
+                "reference": "f43d97d08aa563979768356fb065b15671323f41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/d0c1424442a5b57a900e93c89fccb7c15548f618",
-                "reference": "d0c1424442a5b57a900e93c89fccb7c15548f618",
+                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/f43d97d08aa563979768356fb065b15671323f41",
+                "reference": "f43d97d08aa563979768356fb065b15671323f41",
                 "shasum": ""
             },
             "require": {
-                "typo3/flow": "^3.0",
+                "typo3/flow": "^3.3",
                 "typo3/setup": "^3.0",
                 "typo3/surf": "*"
             },
@@ -729,7 +729,7 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2017-01-08 12:31:25"
+            "time": "2017-01-08 12:39:04"
         },
         {
             "name": "lightwerk/surfrunner",
@@ -737,18 +737,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfRunner.git",
-                "reference": "980f6393a91d56ba350b6870246cb83bf9f2fefc"
+                "reference": "9d7117df654bc7c10ae241db4648fd3d643c027e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/980f6393a91d56ba350b6870246cb83bf9f2fefc",
-                "reference": "980f6393a91d56ba350b6870246cb83bf9f2fefc",
+                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/9d7117df654bc7c10ae241db4648fd3d643c027e",
+                "reference": "9d7117df654bc7c10ae241db4648fd3d643c027e",
                 "shasum": ""
             },
             "require": {
                 "lightwerk/surfcaptain": "*",
                 "lightwerk/surftasks": "*",
-                "typo3/flow": "^3.0",
+                "typo3/flow": "^3.3",
                 "typo3/surf": "*"
             },
             "type": "typo3-flow-package",
@@ -782,7 +782,7 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2017-01-08 12:31:56"
+            "time": "2017-01-08 12:38:51"
         },
         {
             "name": "lightwerk/surftasks",
@@ -790,16 +790,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "f84ba21ec3205fb776bf3897e6d11aed3256dda7"
+                "reference": "e1bb7b8dffd7de066ca75ce61c61e2e1b300396e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/f84ba21ec3205fb776bf3897e6d11aed3256dda7",
-                "reference": "f84ba21ec3205fb776bf3897e6d11aed3256dda7",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/e1bb7b8dffd7de066ca75ce61c61e2e1b300396e",
+                "reference": "e1bb7b8dffd7de066ca75ce61c61e2e1b300396e",
                 "shasum": ""
             },
             "require": {
-                "typo3/flow": "^3.0",
+                "typo3/flow": "^3.3",
                 "typo3/surf": "*"
             },
             "type": "typo3-flow-package",
@@ -833,7 +833,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2017-01-08 12:31:52"
+            "time": "2017-01-08 12:39:00"
         },
         {
             "name": "neos/composer-plugin",
