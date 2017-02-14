@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Wrapper for composer to ignore platform requirements
+
+/usr/bin/composer --ignore-platform-reqs $@
