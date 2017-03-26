@@ -31,6 +31,7 @@
         "bin-dir": "bin"
     },
     "require": {
+        "php": "~7.0",
         "lightwerk/surfcaptain": "dev-dev",
         "neos/flow": "^3.0",
         "typo3/surf": "^0.9",
