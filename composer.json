@@ -32,7 +32,7 @@
     },
     "require": {
         "lightwerk/surfcaptain": "dev-dev",
-        "typo3/flow": "^3.0",
+        "neos/flow": "^3.0",
         "typo3/surf": "^0.9",
         "lightwerk/surfrunner": "dev-dev",
         "lightwerk/surftasks": "dev-dev",
