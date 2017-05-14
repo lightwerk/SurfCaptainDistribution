@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "752d27c91ddf8ccf1d69d1acb7e48e9a",
     "content-hash": "e18f5c5f156b95646b529a7187a6ffb9",
     "packages": [
         {
@@ -73,7 +72,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2017-02-24 16:22:25"
+            "time": "2017-02-24T16:22:25+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -143,7 +142,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2016-10-29 11:16:17"
+            "time": "2016-10-29T11:16:17+00:00"
         },
         {
             "name": "doctrine/collections",
@@ -210,7 +209,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2017-01-03 10:49:41"
+            "time": "2017-01-03T10:49:41+00:00"
         },
         {
             "name": "doctrine/common",
@@ -283,7 +282,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2017-01-13 14:02:13"
+            "time": "2017-01-13T14:02:13+00:00"
         },
         {
             "name": "doctrine/dbal",
@@ -354,7 +353,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2017-02-08 12:53:47"
+            "time": "2017-02-08T12:53:47+00:00"
         },
         {
             "name": "doctrine/inflector",
@@ -421,7 +420,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2015-11-06 14:35:42"
+            "time": "2015-11-06T14:35:42+00:00"
         },
         {
             "name": "doctrine/instantiator",
@@ -475,7 +474,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2015-06-14 21:17:01"
+            "time": "2015-06-14T21:17:01+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -529,7 +528,7 @@
                 "lexer",
                 "parser"
             ],
-            "time": "2014-09-09 13:34:57"
+            "time": "2014-09-09T13:34:57+00:00"
         },
         {
             "name": "doctrine/migrations",
@@ -598,7 +597,7 @@
                 "database",
                 "migrations"
             ],
-            "time": "2016-02-23 15:27:16"
+            "time": "2016-02-23T15:27:16+00:00"
         },
         {
             "name": "doctrine/orm",
@@ -674,7 +673,7 @@
                 "database",
                 "orm"
             ],
-            "time": "2016-12-18 15:42:34"
+            "time": "2016-12-18T15:42:34+00:00"
         },
         {
             "name": "lightwerk/surfcaptain",
@@ -791,12 +790,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "cdb6effbb660a13075035c91977ce53af6fb1d7f"
+                "reference": "7bd2a0fcf787c5f997341ba45123846ab6c3913b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/cdb6effbb660a13075035c91977ce53af6fb1d7f",
-                "reference": "cdb6effbb660a13075035c91977ce53af6fb1d7f",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/7bd2a0fcf787c5f997341ba45123846ab6c3913b",
+                "reference": "7bd2a0fcf787c5f997341ba45123846ab6c3913b",
                 "shasum": ""
             },
             "require": {
@@ -834,7 +833,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2017-05-14 10:28:33"
+            "time": "2017-05-14 11:30:31"
         },
         {
             "name": "neos/composer-plugin",
@@ -867,7 +866,7 @@
                 "MIT"
             ],
             "description": "Flow Composer Plugin",
-            "time": "2016-05-05 07:03:52"
+            "time": "2016-05-05T07:03:52+00:00"
         },
         {
             "name": "neos/error-messages",
@@ -901,7 +900,7 @@
             ],
             "description": "Flow error messages",
             "homepage": "http://flow.typo3.org",
-            "time": "2016-10-15 17:55:17"
+            "time": "2016-10-15T17:55:17+00:00"
         },
         {
             "name": "neos/flow",
@@ -966,7 +965,7 @@
             ],
             "description": "Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2017-04-11 19:31:41"
+            "time": "2017-04-11T19:31:41+00:00"
         },
         {
             "name": "neos/setup",
@@ -1030,7 +1029,7 @@
                 "LGPL-3.0+"
             ],
             "description": "An extensible setup tool for TYPO3 Flow based applications",
-            "time": "2016-11-17 14:08:05"
+            "time": "2016-11-17T14:08:05+00:00"
         },
         {
             "name": "neos/utility-arrays",
@@ -1071,7 +1070,7 @@
             ],
             "description": "Flow Array Utilities",
             "homepage": "http://flow.typo3.org",
-            "time": "2017-01-30 10:31:49"
+            "time": "2017-01-30T10:31:49+00:00"
         },
         {
             "name": "neos/utility-files",
@@ -1111,7 +1110,7 @@
             ],
             "description": "Flow Files Utilities",
             "homepage": "http://flow.typo3.org",
-            "time": "2016-11-17 15:47:06"
+            "time": "2016-11-17T15:47:06+00:00"
         },
         {
             "name": "neos/utility-lock",
@@ -1147,7 +1146,7 @@
             ],
             "description": "Flow Locking Implementation",
             "homepage": "http://flow.typo3.org",
-            "time": "2017-01-30 10:31:49"
+            "time": "2017-01-30T10:31:49+00:00"
         },
         {
             "name": "neos/utility-mediatypes",
@@ -1187,7 +1186,7 @@
             ],
             "description": "Flow Media Types Utilities",
             "homepage": "http://flow.typo3.org",
-            "time": "2016-11-09 08:40:30"
+            "time": "2016-11-09T08:40:30+00:00"
         },
         {
             "name": "neos/utility-objecthandling",
@@ -1227,7 +1226,7 @@
             ],
             "description": "Flow array/object property and type utilities",
             "homepage": "http://flow.typo3.org",
-            "time": "2016-10-29 08:02:34"
+            "time": "2016-10-29T08:02:34+00:00"
         },
         {
             "name": "neos/utility-opcodecache",
@@ -1263,7 +1262,7 @@
             ],
             "description": "Flow Opcode Cache Utilities",
             "homepage": "http://flow.typo3.org",
-            "time": "2016-09-10 05:53:42"
+            "time": "2016-09-10T05:53:42+00:00"
         },
         {
             "name": "neos/utility-pdo",
@@ -1299,7 +1298,7 @@
             ],
             "description": "Flow PDO Utilities",
             "homepage": "http://flow.typo3.org",
-            "time": "2016-05-05 17:29:29"
+            "time": "2016-05-05T17:29:29+00:00"
         },
         {
             "name": "neos/utility-schema",
@@ -1340,7 +1339,7 @@
             ],
             "description": "Flow Schema Utilities",
             "homepage": "http://flow.typo3.org",
-            "time": "2016-10-15 17:55:17"
+            "time": "2016-10-15T17:55:17+00:00"
         },
         {
             "name": "neos/utility-unicode",
@@ -1376,7 +1375,7 @@
             ],
             "description": "Flow Unicode Utilities",
             "homepage": "http://flow.typo3.org",
-            "time": "2016-10-15 17:55:17"
+            "time": "2016-10-15T17:55:17+00:00"
         },
         {
             "name": "ocramius/package-versions",
@@ -1424,7 +1423,7 @@
                 }
             ],
             "description": "Composer plugin that provides efficient querying for installed package versions (no runtime IO)",
-            "time": "2016-12-30 09:49:15"
+            "time": "2016-12-30T09:49:15+00:00"
         },
         {
             "name": "ocramius/proxy-manager",
@@ -1489,7 +1488,7 @@
                 "proxy pattern",
                 "service proxies"
             ],
-            "time": "2016-11-04 15:53:15"
+            "time": "2016-11-04T15:53:15+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -1537,7 +1536,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2017-03-13 16:22:52"
+            "time": "2017-03-13T16:22:52+00:00"
         },
         {
             "name": "psr/log",
@@ -1584,7 +1583,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10 12:19:37"
+            "time": "2016-10-10T12:19:37+00:00"
         },
         {
             "name": "ramsey/uuid",
@@ -1666,7 +1665,7 @@
                 "identifier",
                 "uuid"
             ],
-            "time": "2017-03-26 20:37:53"
+            "time": "2017-03-26T20:37:53+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1720,7 +1719,7 @@
                 "mail",
                 "mailer"
             ],
-            "time": "2016-12-29 10:02:40"
+            "time": "2016-12-29T10:02:40+00:00"
         },
         {
             "name": "symfony/console",
@@ -1781,7 +1780,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2017-04-26 01:38:53"
+            "time": "2017-04-26T01:38:53+00:00"
         },
         {
             "name": "symfony/debug",
@@ -1838,7 +1837,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2016-07-30 07:22:48"
+            "time": "2016-07-30T07:22:48+00:00"
         },
         {
             "name": "symfony/dom-crawler",
@@ -1894,7 +1893,7 @@
             ],
             "description": "Symfony DomCrawler Component",
             "homepage": "https://symfony.com",
-            "time": "2017-04-12 14:07:15"
+            "time": "2017-04-12T14:07:15+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1953,7 +1952,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-11-14 01:06:16"
+            "time": "2016-11-14T01:06:16+00:00"
         },
         {
             "name": "symfony/process",
@@ -2002,7 +2001,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2017-04-12 14:07:15"
+            "time": "2017-04-12T14:07:15+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -2051,7 +2050,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-05-01 14:31:55"
+            "time": "2017-05-01T14:31:55+00:00"
         },
         {
             "name": "typo3/eel",
@@ -2082,7 +2081,7 @@
             ],
             "description": "The Embedded Expression Language (Eel) is a building block for creating Domain Specific Languages",
             "abandoned": "neos/eel",
-            "time": "2017-02-14 13:39:10"
+            "time": "2017-02-14T13:39:10+00:00"
         },
         {
             "name": "typo3/flow",
@@ -2148,7 +2147,7 @@
             "description": "Flow Application Framework",
             "homepage": "http://flow.typo3.org",
             "abandoned": "neos/flow",
-            "time": "2017-04-11 19:31:41"
+            "time": "2017-04-11T19:31:41+00:00"
         },
         {
             "name": "typo3/fluid",
@@ -2178,7 +2177,7 @@
                 "MIT"
             ],
             "description": "Next-Generation Templating Framework for Flow and Neos",
-            "time": "2017-01-16 11:54:29"
+            "time": "2017-01-16T11:54:29+00:00"
         },
         {
             "name": "typo3/form",
@@ -2212,7 +2211,7 @@
             ],
             "description": "Extensible and flexible API for building web forms",
             "abandoned": "neos/form",
-            "time": "2017-04-12 09:09:19"
+            "time": "2017-04-12T09:09:19+00:00"
         },
         {
             "name": "typo3/surf",
@@ -2248,7 +2247,7 @@
                 "GPL-3.0+"
             ],
             "description": "TYPO3 Surf is a deployment tool based on Flow and suited for a wide variety of applications",
-            "time": "2015-10-05 23:04:28"
+            "time": "2015-10-05T23:04:28+00:00"
         },
         {
             "name": "typo3/swiftmailer",
@@ -2281,7 +2280,7 @@
             ],
             "description": "A Flow package for easy use of Swift Mailer",
             "abandoned": "neos/swiftmailer",
-            "time": "2017-01-06 10:20:31"
+            "time": "2017-01-06T10:20:31+00:00"
         },
         {
             "name": "typo3/twitter-bootstrap",
@@ -2312,7 +2311,7 @@
             ],
             "description": "Simple and flexible HTML, CSS, and Javascript for popular user interface components and interactions. Packaged for use with TYPO3 Flow",
             "abandoned": "neos/twitter-bootstrap",
-            "time": "2015-06-11 09:19:56"
+            "time": "2015-06-11T09:19:56+00:00"
         },
         {
             "name": "zendframework/zend-code",
@@ -2365,7 +2364,7 @@
                 "code",
                 "zf2"
             ],
-            "time": "2016-10-24 13:23:32"
+            "time": "2016-10-24T13:23:32+00:00"
         },
         {
             "name": "zendframework/zend-eventmanager",
@@ -2419,7 +2418,7 @@
                 "events",
                 "zf2"
             ],
-            "time": "2016-12-19 21:47:12"
+            "time": "2016-12-19T21:47:12+00:00"
         }
     ],
     "packages-dev": [
@@ -2459,7 +2458,7 @@
                 "BSD"
             ],
             "homepage": "http://vfs.bovigo.org/",
-            "time": "2014-09-14 10:18:53"
+            "time": "2014-09-14T10:18:53+00:00"
         },
         {
             "name": "myclabs/deep-copy",
@@ -2501,7 +2500,7 @@
                 "object",
                 "object graph"
             ],
-            "time": "2017-04-12 18:52:22"
+            "time": "2017-04-12T18:52:22+00:00"
         },
         {
             "name": "neos/buildessentials",
@@ -2529,7 +2528,7 @@
                 "LGPL-3.0+"
             ],
             "description": "TYPO3 Flow Build Toolchain Essentials",
-            "time": "2016-08-17 18:00:06"
+            "time": "2016-08-17T18:00:06+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -2583,7 +2582,7 @@
                 "reflection",
                 "static analysis"
             ],
-            "time": "2015-12-27 11:43:31"
+            "time": "2015-12-27T11:43:31+00:00"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -2628,7 +2627,7 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
-            "time": "2016-09-30 07:12:33"
+            "time": "2016-09-30T07:12:33+00:00"
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -2675,7 +2674,7 @@
                     "email": "me@mikevanriel.com"
                 }
             ],
-            "time": "2016-11-25 06:54:22"
+            "time": "2016-11-25T06:54:22+00:00"
         },
         {
             "name": "phpspec/prophecy",
@@ -2738,7 +2737,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2017-03-02 20:05:34"
+            "time": "2017-03-02T20:05:34+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -2801,7 +2800,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2017-04-02 07:44:40"
+            "time": "2017-04-02T07:44:40+00:00"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -2848,7 +2847,7 @@
                 "filesystem",
                 "iterator"
             ],
-            "time": "2016-10-03 07:40:28"
+            "time": "2016-10-03T07:40:28+00:00"
         },
         {
             "name": "phpunit/php-text-template",
@@ -2889,7 +2888,7 @@
             "keywords": [
                 "template"
             ],
-            "time": "2015-06-21 13:50:34"
+            "time": "2015-06-21T13:50:34+00:00"
         },
         {
             "name": "phpunit/php-timer",
@@ -2938,7 +2937,7 @@
             "keywords": [
                 "timer"
             ],
-            "time": "2017-02-26 11:10:40"
+            "time": "2017-02-26T11:10:40+00:00"
         },
         {
             "name": "phpunit/php-token-stream",
@@ -2987,7 +2986,7 @@
             "keywords": [
                 "tokenizer"
             ],
-            "time": "2017-02-27 10:12:30"
+            "time": "2017-02-27T10:12:30+00:00"
         },
         {
             "name": "phpunit/phpunit",
@@ -3069,7 +3068,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2017-04-03 02:22:27"
+            "time": "2017-04-03T02:22:27+00:00"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -3128,7 +3127,7 @@
                 "mock",
                 "xunit"
             ],
-            "time": "2016-12-08 20:27:08"
+            "time": "2016-12-08T20:27:08+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
@@ -3173,7 +3172,7 @@
             ],
             "description": "Looks up which function or method a line of code belongs to",
             "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
-            "time": "2017-03-04 06:30:41"
+            "time": "2017-03-04T06:30:41+00:00"
         },
         {
             "name": "sebastian/comparator",
@@ -3237,7 +3236,7 @@
                 "compare",
                 "equality"
             ],
-            "time": "2017-01-29 09:50:25"
+            "time": "2017-01-29T09:50:25+00:00"
         },
         {
             "name": "sebastian/diff",
@@ -3289,7 +3288,7 @@
             "keywords": [
                 "diff"
             ],
-            "time": "2015-12-08 07:14:41"
+            "time": "2015-12-08T07:14:41+00:00"
         },
         {
             "name": "sebastian/environment",
@@ -3339,7 +3338,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2016-11-26 07:53:53"
+            "time": "2016-11-26T07:53:53+00:00"
         },
         {
             "name": "sebastian/exporter",
@@ -3406,7 +3405,7 @@
                 "export",
                 "exporter"
             ],
-            "time": "2016-11-19 08:54:04"
+            "time": "2016-11-19T08:54:04+00:00"
         },
         {
             "name": "sebastian/global-state",
@@ -3457,7 +3456,7 @@
             "keywords": [
                 "global state"
             ],
-            "time": "2015-10-12 03:26:01"
+            "time": "2015-10-12T03:26:01+00:00"
         },
         {
             "name": "sebastian/object-enumerator",
@@ -3503,7 +3502,7 @@
             ],
             "description": "Traverses array structures and object graphs to enumerate all referenced objects",
             "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
-            "time": "2017-02-18 15:18:39"
+            "time": "2017-02-18T15:18:39+00:00"
         },
         {
             "name": "sebastian/recursion-context",
@@ -3556,7 +3555,7 @@
             ],
             "description": "Provides functionality to recursively process PHP variables",
             "homepage": "http://www.github.com/sebastianbergmann/recursion-context",
-            "time": "2016-11-19 07:33:16"
+            "time": "2016-11-19T07:33:16+00:00"
         },
         {
             "name": "sebastian/resource-operations",
@@ -3598,7 +3597,7 @@
             ],
             "description": "Provides a list of PHP built-in functions that operate on resources",
             "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
-            "time": "2015-07-28 20:34:47"
+            "time": "2015-07-28T20:34:47+00:00"
         },
         {
             "name": "sebastian/version",
@@ -3641,7 +3640,7 @@
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
-            "time": "2016-10-03 07:35:21"
+            "time": "2016-10-03T07:35:21+00:00"
         },
         {
             "name": "webmozart/assert",
@@ -3691,7 +3690,7 @@
                 "check",
                 "validate"
             ],
-            "time": "2016-11-23 20:04:58"
+            "time": "2016-11-23T20:04:58+00:00"
         }
     ],
     "aliases": [],
