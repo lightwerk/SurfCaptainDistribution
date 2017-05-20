@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "e18f5c5f156b95646b529a7187a6ffb9",
+    "content-hash": "9672f35ba479ff480a106635946a527d",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -677,16 +677,16 @@
         },
         {
             "name": "lightwerk/surfcaptain",
-            "version": "dev-dev",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfCaptain.git",
-                "reference": "76bd6111af7c99a5d626306c01872cbe3023ae5e"
+                "reference": "eb0ee5a4350dc87c8794df6354bdb307bc78e7f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/76bd6111af7c99a5d626306c01872cbe3023ae5e",
-                "reference": "76bd6111af7c99a5d626306c01872cbe3023ae5e",
+                "url": "https://api.github.com/repos/lightwerk/SurfCaptain/zipball/eb0ee5a4350dc87c8794df6354bdb307bc78e7f8",
+                "reference": "eb0ee5a4350dc87c8794df6354bdb307bc78e7f8",
                 "shasum": ""
             },
             "require": {
@@ -729,20 +729,20 @@
                 "TYPO3 Surf",
                 "deployment"
             ],
-            "time": "2017-03-26 09:45:33"
+            "time": "2017-05-20T12:39:58+00:00"
         },
         {
             "name": "lightwerk/surfrunner",
-            "version": "dev-dev",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfRunner.git",
-                "reference": "f0ab683bdd67a95c30723f063630377c4cc8fc7f"
+                "reference": "03db9c01075cf9ae8ba50bcca0b85e5cdeb4fa13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/f0ab683bdd67a95c30723f063630377c4cc8fc7f",
-                "reference": "f0ab683bdd67a95c30723f063630377c4cc8fc7f",
+                "url": "https://api.github.com/repos/lightwerk/SurfRunner/zipball/03db9c01075cf9ae8ba50bcca0b85e5cdeb4fa13",
+                "reference": "03db9c01075cf9ae8ba50bcca0b85e5cdeb4fa13",
                 "shasum": ""
             },
             "require": {
@@ -782,20 +782,20 @@
                 "command line interface",
                 "deployment"
             ],
-            "time": "2017-03-26 09:45:50"
+            "time": "2017-05-20T12:45:38+00:00"
         },
         {
             "name": "lightwerk/surftasks",
-            "version": "dev-dev",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "7bd2a0fcf787c5f997341ba45123846ab6c3913b"
+                "reference": "c671e6b16a979968fef41a62f7e0b3757413082a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/7bd2a0fcf787c5f997341ba45123846ab6c3913b",
-                "reference": "7bd2a0fcf787c5f997341ba45123846ab6c3913b",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/c671e6b16a979968fef41a62f7e0b3757413082a",
+                "reference": "c671e6b16a979968fef41a62f7e0b3757413082a",
                 "shasum": ""
             },
             "require": {
@@ -833,7 +833,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2017-05-14 11:30:31"
+            "time": "2017-05-20T12:33:50+00:00"
         },
         {
             "name": "neos/composer-plugin",
@@ -2424,28 +2424,28 @@
     "packages-dev": [
         {
             "name": "mikey179/vfsStream",
-            "version": "v1.4.0",
+            "version": "v1.6.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mikey179/vfsStream.git",
-                "reference": "61b12172292cf539685507aa65b076c1530e83c1"
+                "reference": "0247f57b2245e8ad2e689d7cee754b45fbabd592"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mikey179/vfsStream/zipball/61b12172292cf539685507aa65b076c1530e83c1",
-                "reference": "61b12172292cf539685507aa65b076c1530e83c1",
+                "url": "https://api.github.com/repos/mikey179/vfsStream/zipball/0247f57b2245e8ad2e689d7cee754b45fbabd592",
+                "reference": "0247f57b2245e8ad2e689d7cee754b45fbabd592",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "~4.2"
+                "phpunit/phpunit": "~4.5"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4.x-dev"
+                    "dev-master": "1.6.x-dev"
                 }
             },
             "autoload": {
@@ -2455,10 +2455,18 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "BSD"
+                "BSD-3-Clause"
             ],
+            "authors": [
+                {
+                    "name": "Frank Kleine",
+                    "homepage": "http://frankkleine.de/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Virtual file system to mock the real file system in unit tests.",
             "homepage": "http://vfs.bovigo.org/",
-            "time": "2014-09-14T10:18:53+00:00"
+            "time": "2016-07-18T14:02:57+00:00"
         },
         {
             "name": "myclabs/deep-copy",
@@ -3240,23 +3248,23 @@
         },
         {
             "name": "sebastian/diff",
-            "version": "1.4.1",
+            "version": "1.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/diff.git",
-                "reference": "13edfd8706462032c2f52b4b862974dd46b71c9e"
+                "reference": "3c7d21999e815cdfac70c6c7d79d3a9cb1bc7bc2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/13edfd8706462032c2f52b4b862974dd46b71c9e",
-                "reference": "13edfd8706462032c2f52b4b862974dd46b71c9e",
+                "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/3c7d21999e815cdfac70c6c7d79d3a9cb1bc7bc2",
+                "reference": "3c7d21999e815cdfac70c6c7d79d3a9cb1bc7bc2",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.3"
+                "php": "^5.3.3 || ^7.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "~4.8"
+                "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.0"
             },
             "type": "library",
             "extra": {
@@ -3288,7 +3296,7 @@
             "keywords": [
                 "diff"
             ],
-            "time": "2015-12-08T07:14:41+00:00"
+            "time": "2017-05-18T13:44:30+00:00"
         },
         {
             "name": "sebastian/environment",
@@ -3695,11 +3703,7 @@
     ],
     "aliases": [],
     "minimum-stability": "alpha",
-    "stability-flags": {
-        "lightwerk/surfcaptain": 20,
-        "lightwerk/surfrunner": 20,
-        "lightwerk/surftasks": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {

@@ -32,17 +32,17 @@
     },
     "require": {
         "php": "~7.0",
-        "lightwerk/surfcaptain": "dev-dev",
+        "lightwerk/surfcaptain": "^1.1",
         "neos/flow": "^3.0",
         "typo3/surf": "^0.9",
-        "lightwerk/surfrunner": "dev-dev",
-        "lightwerk/surftasks": "dev-dev",
+        "lightwerk/surfrunner": "^1.1",
+        "lightwerk/surftasks": "^2.0",
         "typo3/swiftmailer": "*"
     },
     "require-dev": {
         "neos/buildessentials": "^3.0",
         "phpunit/phpunit": "^5.7",
-        "mikey179/vfsstream": "1.4.*"
+        "mikey179/vfsstream": "^1.4"
     },
     "suggest": {
         "ext-pdo_sqlite": "For running functional tests out-of-the-box this is required"
