@@ -31,18 +31,18 @@
         "bin-dir": "bin"
     },
     "require": {
-        "lightwerk/surfcaptain": "dev-master",
-        "typo3/flow": "2.3.6",
-        "typo3/surf": "~0.9",
-        "lightwerk/surfrunner": "dev-master",
-        "lightwerk/surftasks": "dev-master",
-        "typo3/swiftmailer": "dev-master"
+        "php": "~7.0",
+        "lightwerk/surfcaptain": "^1.1",
+        "neos/flow": "^3.0",
+        "typo3/surf": "^0.9",
+        "lightwerk/surfrunner": "^1.1",
+        "lightwerk/surftasks": "^2.0",
+        "typo3/swiftmailer": "*"
     },
     "require-dev": {
-        "typo3/kickstart": "2.3.*",
-        "typo3/buildessentials": "2.3.*",
-        "phpunit/phpunit": "4.3.*",
-        "mikey179/vfsstream": "1.4.*"
+        "neos/buildessentials": "^3.0",
+        "phpunit/phpunit": "^5.7",
+        "mikey179/vfsstream": "^1.4"
     },
     "suggest": {
         "ext-pdo_sqlite": "For running functional tests out-of-the-box this is required"
