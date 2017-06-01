@@ -7,7 +7,6 @@
         "TYPO3 Surf",
         "Deployment"
     ],
-    "minimum-stability": "alpha",
     "authors": [
         {
             "name": "Daniel Goerz",
