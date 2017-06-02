@@ -786,16 +786,16 @@
         },
         {
             "name": "lightwerk/surftasks",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lightwerk/SurfTasks.git",
-                "reference": "c671e6b16a979968fef41a62f7e0b3757413082a"
+                "reference": "eb3e723e25b6139a9aebd84d5c146365a2df2efe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/c671e6b16a979968fef41a62f7e0b3757413082a",
-                "reference": "c671e6b16a979968fef41a62f7e0b3757413082a",
+                "url": "https://api.github.com/repos/lightwerk/SurfTasks/zipball/eb3e723e25b6139a9aebd84d5c146365a2df2efe",
+                "reference": "eb3e723e25b6139a9aebd84d5c146365a2df2efe",
                 "shasum": ""
             },
             "require": {
@@ -833,7 +833,7 @@
                 "Tasks",
                 "deployment"
             ],
-            "time": "2017-05-20T12:33:50+00:00"
+            "time": "2017-06-02T10:17:02+00:00"
         },
         {
             "name": "neos/composer-plugin",
